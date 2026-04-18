@@ -1,0 +1,31 @@
+id,text,sentiment
+,,
+1,The product works exactly as described and I am satisfied.,Positive
+,,
+2,"It's okay, nothing special but does the job.",Positive
+,,
+3,I regret buying this item completely.,Negative
+,,
+4,I am happy with the quality and performance.,Positive
+,,
+5,"The item is fine, I have no complaints.",Positive
+,,
+6,This did not meet my expectations.,Negative
+,,
+7,I would recommend this product to anyone.,Positive
+,,
+8,Not impressed with the overall experience.,Negative
+,,
+9,It performs as expected for the price.,Positive
+,,
+10,Absolutely terrible quality and service.,Negative
+,,
+11,The product is decent but not amazing.,Negative
+,,
+12,I'm satisfied overall with my purchase.,Positive
+,,
+13,"It broke after a few uses, very disappointing.",Negative
+,,
+14,This is one of the best purchases I’ve made.,Positive
+,,
+15,"It works, but I expected more features.",Negative

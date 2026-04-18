@@ -1,0 +1,61 @@
+id,text,sentiment
+,,
+1,"I absolutely love this product, it's amazing.",Positive
+,,
+2,"It's okay, nothing special but works fine.",Positive
+,,
+3,I really hate how this works.,Negative
+,,
+4,I'm extremely satisfied with my purchase.,Positive
+,,
+5,"It's not the best, but it's acceptable.",Positive
+,,
+6,This is by far the worst product I've used.,Negative
+,,
+7,I'm very pleased with the results.,Positive
+,,
+8,It's slightly disappointing.,Negative
+,,
+9,I couldn't be happier with this product.,Positive
+,,
+10,"It's just average, nothing impressive.",Positive
+,,
+11,This product is terrible and frustrating.,Negative
+,,
+12,I'm quite happy with how it performs.,Positive
+,,
+13,"It's not great, but not terrible either.",Positive
+,,
+14,I am deeply disappointed in this purchase.,Negative
+,,
+15,This works perfectly and I love it.,Positive
+,,
+16,It's somewhat useful in daily use.,Positive
+,,
+17,I regret this purchase so much.,Negative
+,,
+18,I'm fairly satisfied with it.,Positive
+,,
+19,This product exceeded my expectations greatly.,Positive
+,,
+20,It's barely usable.,Negative
+,,
+21,I'm extremely unhappy with the quality.,Negative
+,,
+22,"It does what it should, nothing more.",Positive
+,,
+23,I'm very impressed with this item.,Positive
+,,
+24,It's disappointing but still usable.,Negative
+,,
+25,I absolutely recommend this product.,Positive
+,,
+26,This is completely useless.,Negative
+,,
+27,I kind of like it.,Positive
+,,
+28,It doesn't work as expected at all.,Negative
+,,
+29,I'm very content with this purchase.,Positive
+,,
+30,It's not worth buying.,Negative

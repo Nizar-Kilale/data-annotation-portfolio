@@ -1,0 +1,61 @@
+id,text,sentiment
+,,
+1,"The product is good, but it's too expensive for what it offers.",Negative
+,,
+2,Great quality and definitely worth the price.,Positive
+,,
+3,"It's cheap, but the quality is terrible.",Negative
+,,
+4,I feel like I got great value for my money.,Positive
+,,
+5,"The product works fine, but it's overpriced.",Negative
+,,
+6,It's affordable and does exactly what I need.,Positive
+,,
+7,Not worth the price at all.,Negative
+,,
+8,The quality justifies the high cost.,Positive
+,,
+9,It's too costly for such poor performance.,Negative
+,,
+10,Good value for the price.,Positive
+,,
+11,"It's inexpensive, but you get what you pay for.",Positive
+,,
+12,I expected better quality for this price.,Negative
+,,
+13,Very high quality and reasonably priced.,Positive
+,,
+14,"It's not cheap, but it's worth every penny.",Positive
+,,
+15,I feel like I wasted money on this.,Negative
+,,
+16,Decent product for the cost.,Positive
+,,
+17,The price is fair for what you get.,Positive
+,,
+18,Too expensive for such low quality.,Negative
+,,
+19,I'm happy with the value I received.,Positive
+,,
+20,"It's cheap, but it doesn't last long.",Negative
+,,
+21,The product delivers great performance for its price.,Positive
+,,
+22,It's not worth the high price tag.,Negative
+,,
+23,Excellent value and great quality.,Positive
+,,
+24,I regret spending this much on it.,Negative
+,,
+25,It's reasonably priced and works well.,Positive
+,,
+26,The quality is poor considering the cost.,Negative
+,,
+27,Very good product for a low price.,Positive
+,,
+28,It's overpriced and disappointing.,Negative
+,,
+29,Worth every cent I paid.,Positive
+,,
+30,It's not worth buying at this price.,Negative

@@ -1,0 +1,61 @@
+id,text,sentiment
+,,
+1,The product arrived quickly and works perfectly.,Positive
+,,
+2,I am very happy with this purchase.,Positive
+,,
+3,The item feels cheap and poorly made.,Negative
+,,
+4,It works exactly as described.,Positive
+,,
+5,I regret buying this product.,Negative
+,,
+6,The quality exceeded my expectations.,Positive
+,,
+7,It stopped working after one week.,Negative
+,,
+8,I am satisfied with the performance.,Positive
+,,
+9,This is a complete waste of money.,Negative
+,,
+10,It does the job well enough.,Positive
+,,
+11,I would definitely recommend this product.,Positive
+,,
+12,It is not worth the price at all.,Negative
+,,
+13,The packaging was neat and secure.,Positive
+,,
+14,I am disappointed with the quality.,Negative
+,,
+15,The product works better than expected.,Positive
+,,
+16,It arrived damaged and unusable.,Negative
+,,
+17,Very useful and easy to use.,Positive
+,,
+18,I will not buy this again.,Negative
+,,
+19,It performs reliably every time.,Positive
+,,
+20,The design feels very low quality.,Negative
+,,
+21,I am impressed with how well it works.,Positive
+,,
+22,It broke after a few uses.,Negative
+,,
+23,This product met all my needs.,Positive
+,,
+24,It does not function properly.,Negative
+,,
+25,I’m very satisfied overall.,Positive
+,,
+26,It feels like a premium product.,Positive
+,,
+27,It failed to meet my expectations.,Negative
+,,
+28,Everything works as advertised.,Positive
+,,
+29,I feel like I wasted my money.,Negative
+,,
+30,Great value for the price.,Positive

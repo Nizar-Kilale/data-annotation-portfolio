@@ -103,10 +103,7 @@ If unclear, label based on whether the sentence leans toward satisfaction or dis
 
 ---
 
-## Certifications
 
-- Elements of AI Certification  
-  [View Certificate](certifications/elements-ai-data-annotation-certification.png)
 
 ## Status
 

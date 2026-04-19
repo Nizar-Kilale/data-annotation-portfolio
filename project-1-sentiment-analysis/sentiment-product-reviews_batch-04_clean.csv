@@ -1,61 +1,61 @@
 id,,text,sentiment
 ,,,
-151,,"Yeah, this product is just amazing... not.",Negative
+1,,"Yeah, this product is just amazing... not.",Negative
 ,,,
-152,,"It works, I guess.",Positive
+2,,"It works, I guess.",Positive
 ,,,
-153,,"Great, another thing that stopped working after a day.",Negative
+3,,"Great, another thing that stopped working after a day.",Negative
 ,,,
-154,,I love how it fails every time I use it.,Negative
+4,,I love how it fails every time I use it.,Negative
 ,,,
-155,,It's fine if you don't expect much.,Positive
+5,,It's fine if you don't expect much.,Positive
 ,,,
-156,,"Well, it didn't completely break, so that's something.",Negative
+6,,"Well, it didn't completely break, so that's something.",Negative
 ,,,
-157,,Absolutely fantastic… if you enjoy wasting money.,Negative
+7,,Absolutely fantasticâ€¦ if you enjoy wasting money.,Negative
 ,,,
-158,,"It does the job, but barely.",Positive
+8,,"It does the job, but barely.",Positive
 ,,,
-159,,"I mean, it works... sometimes.",Negative
+9,,"I mean, it works... sometimes.",Negative
 ,,,
-160,,Best purchase ever... said no one.,Negative
+10,,Best purchase ever... said no one.,Negative
 ,,,
-161,,It's not the worst thing I've bought.,Negative
+11,,It's not the worst thing I've bought.,Negative
 ,,,
-162,,"Surprisingly, it actually works.",Positive
+12,,"Surprisingly, it actually works.",Positive
 ,,,
-163,,"I had low expectations, and it still disappointed me.",Negative
+13,,"I had low expectations, and it still disappointed me.",Negative
 ,,,
-164,,"It's okay, I've seen worse.",Positive
+14,,"It's okay, I've seen worse.",Positive
 ,,,
-165,,I guess it's usable.,Positive
+15,,I guess it's usable.,Positive
 ,,,
-166,,"Wow, it broke already. Impressive.",Negative
+16,,"Wow, it broke already. Impressive.",Negative
 ,,,
-167,,"It works, just not when you need it.",Negative
+17,,"It works, just not when you need it.",Negative
 ,,,
-168,,"Honestly, I expected it to be worse.",Positive
+18,,"Honestly, I expected it to be worse.",Positive
 ,,,
-169,,"Not bad, but not good either.",Positive
+19,,"Not bad, but not good either.",Positive
 ,,,
-170,,"I'm not mad, just disappointed.",Negative
+20,,"I'm not mad, just disappointed.",Negative
 ,,,
-171,,"It's decent, I suppose.",Positive
+21,,"It's decent, I suppose.",Positive
 ,,,
-172,,It's good enough if you're desperate.,Positive
+22,,It's good enough if you're desperate.,Positive
 ,,,
-173,,I wouldn't say it's terrible.,Positive
+23,,I wouldn't say it's terrible.,Positive
 ,,,
-174,,It kind of does what it should.,Positive
+24,,It kind of does what it should.,Positive
 ,,,
-175,,Amazing quality... for a toy product.,Negative
+25,,Amazing quality... for a toy product.,Negative
 ,,,
-176,,"It's acceptable, I guess.",Positive
+26,,"It's acceptable, I guess.",Positive
 ,,,
-177,,"Not exactly what I wanted, but it works.",Negative
+27,,"Not exactly what I wanted, but it works.",Negative
 ,,,
-178,,I can't say I'm impressed.,Negative
+28,,I can't say I'm impressed.,Negative
 ,,,
-179,,"It's usable, but frustrating.",Negative
+29,,"It's usable, but frustrating.",Negative
 ,,,
-180,,"Well, at least it arrived.",Negative
+30,,"Well, at least it arrived.",Negative

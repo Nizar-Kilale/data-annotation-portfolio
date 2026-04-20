@@ -1,0 +1,61 @@
+annotation_id,text,label
+,,
+181,Elon Musk visited Tanzania last year.,"[{""start"":0,""end"":9,""text"":""Elon Musk"",""labels"":[""PERSON""]},{""start"":18,""end"":26,""text"":""Tanzania"",""labels"":[""LOCATION""]}]"
+,,
+182,Barack Obama gave a speech in Kenya.,"[{""start"":0,""end"":12,""text"":""Barack Obama"",""labels"":[""PERSON""]},{""start"":30,""end"":35,""text"":""Kenya"",""labels"":[""LOCATION""]}]"
+,,
+183,Google opened a new office in Lagos.,"[{""start"":0,""end"":6,""text"":""Google"",""labels"":[""ORGANIZATION""]},{""start"":30,""end"":35,""text"":""Lagos"",""labels"":[""LOCATION""]}]"
+,,
+184,Serena Williams trained in Paris.,"[{""start"":0,""end"":15,""text"":""Serena Williams"",""labels"":[""PERSON""]},{""start"":27,""end"":32,""text"":""Paris"",""labels"":[""LOCATION""]}]"
+,,
+185,Microsoft announced a partnership in South Africa.,"[{""start"":0,""end"":9,""text"":""Microsoft"",""labels"":[""ORGANIZATION""]},{""start"":37,""end"":49,""text"":""South Africa"",""labels"":[""LOCATION""]}]"
+,,
+186,Lionel Messi traveled to Dubai for an event.,"[{""start"":0,""end"":12,""text"":""Lionel Messi"",""labels"":[""PERSON""]},{""start"":25,""end"":30,""text"":""Dubai"",""labels"":[""LOCATION""]}]"
+,,
+187,Amazon expanded its services in Nigeria.,"[{""start"":0,""end"":6,""text"":""Amazon"",""labels"":[""ORGANIZATION""]},{""start"":32,""end"":39,""text"":""Nigeria"",""labels"":[""LOCATION""]}]"
+,,
+188,Oprah Winfrey hosted a show in London.,"[{""start"":0,""end"":13,""text"":""Oprah Winfrey"",""labels"":[""PERSON""]},{""start"":31,""end"":37,""text"":""London"",""labels"":[""LOCATION""]}]"
+,,
+189,Facebook launched a new feature in India.,"[{""start"":0,""end"":8,""text"":""Facebook"",""labels"":[""ORGANIZATION""]},{""start"":35,""end"":40,""text"":""India"",""labels"":[""LOCATION""]}]"
+,,
+190,Bill Gates donated funds to a hospital in Uganda.,"[{""start"":0,""end"":10,""text"":""Bill Gates"",""labels"":[""PERSON""]},{""start"":42,""end"":48,""text"":""Uganda"",""labels"":[""LOCATION""]}]"
+,,
+191,Cristiano Ronaldo played a match in Spain.,"[{""start"":0,""end"":17,""text"":""Cristiano Ronaldo"",""labels"":[""PERSON""]},{""start"":36,""end"":41,""text"":""Spain"",""labels"":[""LOCATION""]}]"
+,,
+192,Apple released a new product in California.,"[{""start"":0,""end"":5,""text"":""Apple"",""labels"":[""ORGANIZATION""]},{""start"":32,""end"":42,""text"":""California"",""labels"":[""LOCATION""]}]"
+,,
+193,Jeff Bezos attended a conference in Germany.,"[{""start"":0,""end"":10,""text"":""Jeff Bezos"",""labels"":[""PERSON""]},{""start"":36,""end"":43,""text"":""Germany"",""labels"":[""LOCATION""]}]"
+,,
+194,The United Nations held a meeting in New York.,"[{""start"":4,""end"":18,""text"":""United Nations"",""labels"":[""ORGANIZATION""]},{""start"":37,""end"":45,""text"":""New York"",""labels"":[""LOCATION""]}]"
+,,
+195,Tesla built a factory in China.,"[{""start"":0,""end"":5,""text"":""Tesla"",""labels"":[""ORGANIZATION""]},{""start"":25,""end"":30,""text"":""China"",""labels"":[""LOCATION""]}]"
+,,
+196,Mark Zuckerberg visited Indonesia.,"[{""start"":0,""end"":15,""text"":""Mark Zuckerberg"",""labels"":[""PERSON""]},{""start"":24,""end"":33,""text"":""Indonesia"",""labels"":[""LOCATION""]}]"
+,,
+197,The World Health Organization issued a report in Geneva.,"[{""start"":4,""end"":29,""text"":""World Health Organization"",""labels"":[""ORGANIZATION""]},{""start"":49,""end"":55,""text"":""Geneva"",""labels"":[""LOCATION""]}]"
+,,
+198,Jack Ma spoke at an event in Shanghai.,"[{""start"":0,""end"":7,""text"":""Jack Ma"",""labels"":[""PERSON""]},{""start"":29,""end"":37,""text"":""Shanghai"",""labels"":[""LOCATION""]}]"
+,,
+199,Netflix filmed a series in Canada.,"[{""start"":0,""end"":7,""text"":""Netflix"",""labels"":[""ORGANIZATION""]},{""start"":27,""end"":33,""text"":""Canada"",""labels"":[""LOCATION""]}]"
+,,
+200,The African Union met in Addis Ababa.,"[{""start"":4,""end"":17,""text"":""African Union"",""labels"":[""ORGANIZATION""]},{""start"":25,""end"":36,""text"":""Addis Ababa"",""labels"":[""LOCATION""]}]"
+,,
+201,Elon Musk and Bill Gates attended a summit in Switzerland.,"[{""start"":0,""end"":9,""text"":""Elon Musk"",""labels"":[""PERSON""]},{""start"":14,""end"":24,""text"":""Bill Gates"",""labels"":[""PERSON""]},{""start"":46,""end"":57,""text"":""Switzerland"",""labels"":[""LOCATION""]}]"
+,,
+202,Google and Microsoft are competing in the cloud market in Europe.,"[{""start"":0,""end"":6,""text"":""Google"",""labels"":[""ORGANIZATION""]},{""start"":11,""end"":20,""text"":""Microsoft"",""labels"":[""ORGANIZATION""]},{""start"":58,""end"":64,""text"":""Europe"",""labels"":[""LOCATION""]}]"
+,,
+203,The World Bank funded a project in Tanzania.,"[{""start"":4,""end"":14,""text"":""World Bank"",""labels"":[""ORGANIZATION""]},{""start"":35,""end"":43,""text"":""Tanzania"",""labels"":[""LOCATION""]}]"
+,,
+204,IBM opened a research center in Brazil.,"[{""start"":0,""end"":3,""text"":""IBM"",""labels"":[""ORGANIZATION""]},{""start"":32,""end"":38,""text"":""Brazil"",""labels"":[""LOCATION""]}]"
+,,
+205,Angela Merkel met with leaders in Berlin.,"[{""start"":0,""end"":13,""text"":""Angela Merkel"",""labels"":[""PERSON""]},{""start"":34,""end"":40,""text"":""Berlin"",""labels"":[""LOCATION""]}]"
+,,
+206,The European Union passed new regulations in Brussels.,"[{""start"":4,""end"":18,""text"":""European Union"",""labels"":[""ORGANIZATION""]},{""start"":45,""end"":53,""text"":""Brussels"",""labels"":[""LOCATION""]}]"
+,,
+207,Samsung launched a phone in South Korea.,"[{""start"":0,""end"":7,""text"":""Samsung"",""labels"":[""ORGANIZATION""]},{""start"":28,""end"":39,""text"":""South Korea"",""labels"":[""LOCATION""]}]"
+,,
+208,The Red Cross provided aid in Sudan.,"[{""start"":4,""end"":13,""text"":""Red Cross"",""labels"":[""ORGANIZATION""]},{""start"":30,""end"":35,""text"":""Sudan"",""labels"":[""LOCATION""]}]"
+,,
+209,Twitter announced updates from its headquarters in San Francisco.,"[{""start"":0,""end"":7,""text"":""Twitter"",""labels"":[""ORGANIZATION""]},{""start"":51,""end"":64,""text"":""San Francisco"",""labels"":[""LOCATION""]}]"
+,,
+210,Alibaba invested in a startup in Singapore.,"[{""start"":0,""end"":7,""text"":""Alibaba"",""labels"":[""ORGANIZATION""]},{""start"":33,""end"":42,""text"":""Singapore"",""labels"":[""LOCATION""]}]"

@@ -1,0 +1,61 @@
+annotation_id,text,label
+,,
+1,Elon Musk spoke at a conference in Berlin in 2023.,"[{""start"":0,""end"":9,""text"":""Elon Musk"",""labels"":[""PERSON""]},{""start"":35,""end"":41,""text"":""Berlin"",""labels"":[""LOCATION""]},{""start"":45,""end"":49,""text"":""2023"",""labels"":[""DATE""]}]"
+,,
+2,Google launched a product in India last year.,"[{""start"":0,""end"":6,""text"":""Google"",""labels"":[""ORGANIZATION""]},{""start"":29,""end"":34,""text"":""India"",""labels"":[""LOCATION""]},{""start"":35,""end"":44,""text"":""last year"",""labels"":[""DATE""]}]"
+,,
+3,Barack Obama gave a speech in Nairobi on Monday.,"[{""start"":0,""end"":12,""text"":""Barack Obama"",""labels"":[""PERSON""]},{""start"":30,""end"":37,""text"":""Nairobi"",""labels"":[""LOCATION""]},{""start"":41,""end"":47,""text"":""Monday"",""labels"":[""DATE""]}]"
+,,
+4,Microsoft held a meeting at 10 AM in London.,"[{""start"":0,""end"":9,""text"":""Microsoft"",""labels"":[""ORGANIZATION""]},{""start"":28,""end"":33,""text"":""10 AM"",""labels"":[""TIME""]},{""start"":37,""end"":43,""text"":""London"",""labels"":[""LOCATION""]}]"
+,,
+5,Amazon expanded to Egypt in 2022.,"[{""start"":0,""end"":6,""text"":""Amazon"",""labels"":[""ORGANIZATION""]},{""start"":19,""end"":24,""text"":""Egypt"",""labels"":[""LOCATION""]},{""start"":28,""end"":32,""text"":""2022"",""labels"":[""DATE""]}]"
+,,
+6,Serena Williams trained in Paris in the morning.,"[{""start"":0,""end"":15,""text"":""Serena Williams"",""labels"":[""PERSON""]},{""start"":27,""end"":32,""text"":""Paris"",""labels"":[""LOCATION""]},{""start"":40,""end"":47,""text"":""morning"",""labels"":[""TIME""]}]"
+,,
+7,The United Nations met in New York on September 15.,"[{""start"":4,""end"":18,""text"":""United Nations"",""labels"":[""ORGANIZATION""]},{""start"":26,""end"":34,""text"":""New York"",""labels"":[""LOCATION""]},{""start"":38,""end"":50,""text"":""September 15"",""labels"":[""DATE""]}]"
+,,
+8,Tesla announced results at 3 PM in California.,"[{""start"":0,""end"":5,""text"":""Tesla"",""labels"":[""ORGANIZATION""]},{""start"":27,""end"":31,""text"":""3 PM"",""labels"":[""TIME""]},{""start"":35,""end"":45,""text"":""California"",""labels"":[""LOCATION""]}]"
+,,
+9,Facebook opened an office in Lagos in June.,"[{""start"":0,""end"":8,""text"":""Facebook"",""labels"":[""ORGANIZATION""]},{""start"":29,""end"":34,""text"":""Lagos"",""labels"":[""LOCATION""]},{""start"":38,""end"":42,""text"":""June"",""labels"":[""DATE""]}]"
+,,
+10,Bill Gates visited Tanzania last week.,"[{""start"":0,""end"":10,""text"":""Bill Gates"",""labels"":[""PERSON""]},{""start"":19,""end"":27,""text"":""Tanzania"",""labels"":[""LOCATION""]},{""start"":28,""end"":37,""text"":""last week"",""labels"":[""DATE""]}]"
+,,
+11,Apple released a device in China in 2021.,"[{""start"":0,""end"":5,""text"":""Apple"",""labels"":[""ORGANIZATION""]},{""start"":27,""end"":32,""text"":""China"",""labels"":[""LOCATION""]},{""start"":36,""end"":40,""text"":""2021"",""labels"":[""DATE""]}]"
+,,
+12,The World Bank approved funding in Kenya on Friday.,"[{""start"":4,""end"":14,""text"":""World Bank"",""labels"":[""ORGANIZATION""]},{""start"":35,""end"":40,""text"":""Kenya"",""labels"":[""LOCATION""]},{""start"":44,""end"":50,""text"":""Friday"",""labels"":[""DATE""]}]"
+,,
+13,Cristiano Ronaldo played in Madrid at night.,"[{""start"":0,""end"":17,""text"":""Cristiano Ronaldo"",""labels"":[""PERSON""]},{""start"":28,""end"":34,""text"":""Madrid"",""labels"":[""LOCATION""]},{""start"":38,""end"":43,""text"":""night"",""labels"":[""TIME""]}]"
+,,
+14,IBM hosted an event in Brazil on March 10.,"[{""start"":0,""end"":3,""text"":""IBM"",""labels"":[""ORGANIZATION""]},{""start"":23,""end"":29,""text"":""Brazil"",""labels"":[""LOCATION""]},{""start"":33,""end"":41,""text"":""March 10"",""labels"":[""DATE""]}]"
+,,
+15,Netflix released a series in Canada this year.,"[{""start"":0,""end"":7,""text"":""Netflix"",""labels"":[""ORGANIZATION""]},{""start"":29,""end"":35,""text"":""Canada"",""labels"":[""LOCATION""]},{""start"":41,""end"":45,""text"":""this year"",""labels"":[""DATE""]}]"
+,,
+16,Angela Merkel spoke in Berlin on Tuesday morning.,"[{""start"":0,""end"":13,""text"":""Angela Merkel"",""labels"":[""PERSON""]},{""start"":23,""end"":29,""text"":""Berlin"",""labels"":[""LOCATION""]},{""start"":33,""end"":40,""text"":""Tuesday"",""labels"":[""DATE""]},{""start"":41,""end"":48,""text"":""morning"",""labels"":[""TIME""]}]"
+,,
+17,Samsung launched a phone in South Korea at noon.,"[{""start"":0,""end"":7,""text"":""Samsung"",""labels"":[""ORGANIZATION""]},{""start"":28,""end"":39,""text"":""South Korea"",""labels"":[""LOCATION""]},{""start"":43,""end"":47,""text"":""noon"",""labels"":[""TIME""]}]"
+,,
+18,The African Union met in Addis Ababa in July.,"[{""start"":4,""end"":17,""text"":""African Union"",""labels"":[""ORGANIZATION""]},{""start"":25,""end"":36,""text"":""Addis Ababa"",""labels"":[""LOCATION""]},{""start"":40,""end"":44,""text"":""July"",""labels"":[""DATE""]}]"
+,,
+19,Jeff Bezos attended a meeting in Germany yesterday.,"[{""start"":0,""end"":10,""text"":""Jeff Bezos"",""labels"":[""PERSON""]},{""start"":33,""end"":40,""text"":""Germany"",""labels"":[""LOCATION""]},{""start"":41,""end"":50,""text"":""yesterday"",""labels"":[""DATE""]}]"
+,,
+20,Twitter announced changes at 5 PM in San Francisco.,"[{""start"":0,""end"":7,""text"":""Twitter"",""labels"":[""ORGANIZATION""]},{""start"":29,""end"":33,""text"":""5 PM"",""labels"":[""TIME""]},{""start"":37,""end"":50,""text"":""San Francisco"",""labels"":[""LOCATION""]}]"
+,,
+21,Alibaba invested in Singapore in 2020.,"[{""start"":0,""end"":7,""text"":""Alibaba"",""labels"":[""ORGANIZATION""]},{""start"":20,""end"":29,""text"":""Singapore"",""labels"":[""LOCATION""]},{""start"":33,""end"":37,""text"":""2020"",""labels"":[""DATE""]}]"
+,,
+22,The European Union passed laws in Brussels last month.,"[{""start"":4,""end"":18,""text"":""European Union"",""labels"":[""ORGANIZATION""]},{""start"":34,""end"":42,""text"":""Brussels"",""labels"":[""LOCATION""]},{""start"":43,""end"":53,""text"":""last month"",""labels"":[""DATE""]}]"
+,,
+23,Jack Ma gave a speech in Shanghai at 11 AM.,"[{""start"":0,""end"":7,""text"":""Jack Ma"",""labels"":[""PERSON""]},{""start"":25,""end"":33,""text"":""Shanghai"",""labels"":[""LOCATION""]},{""start"":37,""end"":42,""text"":""11 AM"",""labels"":[""TIME""]}]"
+,,
+24,The Red Cross provided aid in Sudan during the evening.,"[{""start"":4,""end"":13,""text"":""Red Cross"",""labels"":[""ORGANIZATION""]},{""start"":30,""end"":35,""text"":""Sudan"",""labels"":[""LOCATION""]},{""start"":47,""end"":54,""text"":""evening"",""labels"":[""TIME""]}]"
+,,
+25,Oprah Winfrey hosted a show in Chicago on Sunday.,"[{""start"":0,""end"":13,""text"":""Oprah Winfrey"",""labels"":[""PERSON""]},{""start"":31,""end"":38,""text"":""Chicago"",""labels"":[""LOCATION""]},{""start"":42,""end"":48,""text"":""Sunday"",""labels"":[""DATE""]}]"
+,,
+26,Google and Microsoft met in Zurich on April 5.,"[{""start"":0,""end"":6,""text"":""Google"",""labels"":[""ORGANIZATION""]},{""start"":11,""end"":20,""text"":""Microsoft"",""labels"":[""ORGANIZATION""]},{""start"":28,""end"":34,""text"":""Zurich"",""labels"":[""LOCATION""]},{""start"":38,""end"":45,""text"":""April 5"",""labels"":[""DATE""]}]"
+,,
+27,The World Health Organization issued a report in Geneva this week.,"[{""start"":4,""end"":29,""text"":""World Health Organization"",""labels"":[""ORGANIZATION""]},{""start"":49,""end"":55,""text"":""Geneva"",""labels"":[""LOCATION""]},{""start"":56,""end"":65,""text"":""this week"",""labels"":[""DATE""]}]"
+,,
+28,Mark Zuckerberg visited Japan in the afternoon.,"[{""start"":0,""end"":15,""text"":""Mark Zuckerberg"",""labels"":[""PERSON""]},{""start"":24,""end"":29,""text"":""Japan"",""labels"":[""LOCATION""]},{""start"":37,""end"":46,""text"":""afternoon"",""labels"":[""TIME""]}]"
+,,
+29,Lionel Messi played in Miami at 8 PM.,"[{""start"":0,""end"":12,""text"":""Lionel Messi"",""labels"":[""PERSON""]},{""start"":23,""end"":28,""text"":""Miami"",""labels"":[""LOCATION""]},{""start"":32,""end"":36,""text"":""8 PM"",""labels"":[""TIME""]}]"
+,,
+30,The United Nations held a summit in New York in October.,"[{""start"":4,""end"":18,""text"":""United Nations"",""labels"":[""ORGANIZATION""]},{""start"":36,""end"":44,""text"":""New York"",""labels"":[""LOCATION""]},{""start"":48,""end"":55,""text"":""October"",""labels"":[""DATE""]}]"

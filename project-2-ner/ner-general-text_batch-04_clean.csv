@@ -1,0 +1,61 @@
+annotation_id,text,label
+,,
+1,The president met officials in Washington on Monday.,"[{""start"":31,""end"":41,""text"":""Washington"",""labels"":[""LOCATION""]},{""start"":45,""end"":51,""text"":""Monday"",""labels"":[""DATE""]}]"
+,,
+2,Apple announced new features during its annual event.,"[{""start"":0,""end"":5,""text"":""Apple"",""labels"":[""ORGANIZATION""]}]"
+,,
+3,Musk spoke about future plans at a conference in Texas.,"[{""start"":49,""end"":54,""text"":""Texas"",""labels"":[""LOCATION""]}]"
+,,
+4,The government of Kenya introduced new policies last year.,"[{""start"":18,""end"":23,""text"":""Kenya"",""labels"":[""LOCATION""]},{""start"":48,""end"":57,""text"":""last year"",""labels"":[""DATE""]}]"
+,,
+5,Amazon’s CEO visited New York recently.,"[{""start"":0,""end"":6,""text"":""Amazon"",""labels"":[""ORGANIZATION""]},{""start"":21,""end"":29,""text"":""New York"",""labels"":[""LOCATION""]}]"
+,,
+6,The team traveled to South Africa for a tournament.,"[{""start"":21,""end"":33,""text"":""South Africa"",""labels"":[""LOCATION""]}]"
+,,
+7,Google opened a new office somewhere in Europe.,"[{""start"":0,""end"":6,""text"":""Google"",""labels"":[""ORGANIZATION""]},{""start"":40,""end"":46,""text"":""Europe"",""labels"":[""LOCATION""]}]"
+,,
+8,The company expanded operations in Asia this year.,"[{""start"":35,""end"":39,""text"":""Asia"",""labels"":[""LOCATION""]},{""start"":40,""end"":49,""text"":""this year"",""labels"":[""DATE""]}]"
+,,
+9,Barack met with leaders in Paris on Tuesday.,"[{""start"":27,""end"":32,""text"":""Paris"",""labels"":[""LOCATION""]},{""start"":36,""end"":43,""text"":""Tuesday"",""labels"":[""DATE""]}]"
+,,
+10,Microsoft partnered with a startup in Silicon Valley.,"[{""start"":0,""end"":9,""text"":""Microsoft"",""labels"":[""ORGANIZATION""]},{""start"":38,""end"":52,""text"":""Silicon Valley"",""labels"":[""LOCATION""]}]"
+,,
+11,The university in Oxford held a seminar in June.,"[{""start"":18,""end"":24,""text"":""Oxford"",""labels"":[""LOCATION""]},{""start"":43,""end"":47,""text"":""June"",""labels"":[""DATE""]}]"
+,,
+12,Tesla reported earnings at the end of the year.,"[{""start"":0,""end"":5,""text"":""Tesla"",""labels"":[""ORGANIZATION""]}]"
+,,
+13,Facebook’s headquarters are located in California.,"[{""start"":0,""end"":8,""text"":""Facebook"",""labels"":[""ORGANIZATION""]},{""start"":39,""end"":49,""text"":""California"",""labels"":[""LOCATION""]}]"
+,,
+14,The minister visited hospitals across Tanzania last week.,"[{""start"":38,""end"":46,""text"":""Tanzania"",""labels"":[""LOCATION""]},{""start"":47,""end"":56,""text"":""last week"",""labels"":[""DATE""]}]"
+,,
+15,IBM collaborated with researchers in Germany.,"[{""start"":0,""end"":3,""text"":""IBM"",""labels"":[""ORGANIZATION""]},{""start"":37,""end"":44,""text"":""Germany"",""labels"":[""LOCATION""]}]"
+,,
+16,The organization held meetings in multiple cities.,
+,,
+17,Angela spoke at an event in Berlin.,"[{""start"":28,""end"":34,""text"":""Berlin"",""labels"":[""LOCATION""]}]"
+,,
+18,The Red Cross team provided aid during the crisis in Sudan.,"[{""start"":4,""end"":13,""text"":""Red Cross"",""labels"":[""ORGANIZATION""]},{""start"":53,""end"":58,""text"":""Sudan"",""labels"":[""LOCATION""]}]"
+,,
+19,Samsung plans to launch a product soon.,"[{""start"":0,""end"":7,""text"":""Samsung"",""labels"":[""ORGANIZATION""]}]"
+,,
+20,The CEO of Apple visited China in March.,"[{""start"":11,""end"":16,""text"":""Apple"",""labels"":[""ORGANIZATION""]},{""start"":25,""end"":30,""text"":""China"",""labels"":[""LOCATION""]},{""start"":34,""end"":39,""text"":""March"",""labels"":[""DATE""]}]"
+,,
+21,Leaders from the United Nations met officials in Geneva.,"[{""start"":17,""end"":31,""text"":""United Nations"",""labels"":[""ORGANIZATION""]},{""start"":49,""end"":55,""text"":""Geneva"",""labels"":[""LOCATION""]}]"
+,,
+22,The company held a conference in New York City.,"[{""start"":33,""end"":46,""text"":""New York City"",""labels"":[""LOCATION""]}]"
+,,
+23,Cristiano scored during a match in Madrid.,"[{""start"":35,""end"":41,""text"":""Madrid"",""labels"":[""LOCATION""]}]"
+,,
+24,The European Union announced changes recently.,"[{""start"":4,""end"":18,""text"":""European Union"",""labels"":[""ORGANIZATION""]}]"
+,,
+25,Jack attended a business meeting in Shanghai.,"[{""start"":36,""end"":44,""text"":""Shanghai"",""labels"":[""LOCATION""]}]"
+,,
+26,The World Bank group funded projects in Africa.,"[{""start"":4,""end"":14,""text"":""World Bank"",""labels"":[""ORGANIZATION""]},{""start"":40,""end"":46,""text"":""Africa"",""labels"":[""LOCATION""]}]"
+,,
+27,Mark spoke at a conference in San Francisco.,"[{""start"":30,""end"":43,""text"":""San Francisco"",""labels"":[""LOCATION""]}]"
+,,
+28,The International Monetary Fund released a report.,"[{""start"":4,""end"":31,""text"":""International Monetary Fund"",""labels"":[""ORGANIZATION""]}]"
+,,
+29,Oprah hosted a show in Chicago.,"[{""start"":23,""end"":30,""text"":""Chicago"",""labels"":[""LOCATION""]}]"
+,,
+30,The African Union leaders met in Ethiopia last month.,"[{""start"":4,""end"":17,""text"":""African Union"",""labels"":[""ORGANIZATION""]},{""start"":33,""end"":41,""text"":""Ethiopia"",""labels"":[""LOCATION""]},{""start"":42,""end"":52,""text"":""last month"",""labels"":[""DATE""]}]"

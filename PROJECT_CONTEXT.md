@@ -114,24 +114,61 @@ Each record contains:
 ## 📁 CURRENT GITHUB STRUCTURE (UPDATED STATE)
 
 data-annotation-portfolio/
+```text
 │
 ├── project-1-sentiment-analysis/
 │   ├── data/
+│   │   ├── sentiment-product-reviews_v2_full_raw.csv
+│   │   ├── sentiment-product-reviews_v2_full_clean.csv
+│   │   └── batch-files/
+│   │       ├── batch-01/
+│   │       ├── batch-02/
+│   │       ├── batch-03/
+│   │       └── batch-04/
+│   │
 │   ├── docs/
+│   │   ├── annotation_guidelines.md
+│   │   ├── dataset_description.md
+│   │   └── PROJECT_CONTEXT.md
+│   │
 │   └── README.md
 │
 ├── project-2-ner/
 │   ├── data/
+│   │   ├── ner_dataset_raw.csv
+│   │   ├── ner_dataset_clean.csv
+│   │   └── batches/
+│   │       ├── batch-01/
+│   │       ├── batch-02/
+│   │       ├── batch-03/
+│   │       └── batch-04/
+│   │
 │   ├── docs/
+│   │   ├── annotation_guidelines.md
+│   │   ├── dataset_description.md
+│   │   └── PROJECT_CONTEXT.md
+│   │
 │   └── README.md
 │
 ├── project-3-search-relevance/
 │   ├── data/
+│   │   ├── search_relevance_v1.csv
+│   │   ├── search_relevance_v2.csv
+│   │   └── batches/
+│   │       ├── batch-01/
+│   │       ├── batch-02/
+│   │       ├── batch-03/   ← (in progress)
+│   │       └── batch-04/   ← (planned)
+│   │
 │   ├── docs/
+│   │   ├── annotation_guidelines.md
+│   │   ├── dataset_description.md
+│   │   └── PROJECT_CONTEXT.md
+│   │
 │   └── README.md
 │
-└── README.md (portfolio overview)
-
+└── README.md   (Portfolio overview)
+```
 ---
 
 ## ⚙️ TOOLS AND WORKFLOW USED

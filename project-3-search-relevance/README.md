@@ -120,4 +120,5 @@ This project demonstrates skills in:
 
 project-3-search-relevance/  
 -- data/  
--- docs/    
+-- docs/
+-- README.md

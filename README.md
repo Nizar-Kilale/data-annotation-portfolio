@@ -33,7 +33,7 @@ data-annotation-portfolio/
 │   ├── docs/
 │   └── README.md
 │
-└── README.md   (this file - portfolio overview)
+└── README.md   (Portfolio overview)
 
 ---
 

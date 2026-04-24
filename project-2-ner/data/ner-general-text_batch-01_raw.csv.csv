@@ -1,0 +1,62 @@
+"annotation_id","annotator","created_at","id","label","lead_time","text","updated_at"
+
+181,"1","2026-04-20T05:33:09.510805Z",181,"[{""start"":0,""end"":9,""text"":""Elon Musk"",""labels"":[""PERSON""]},{""start"":18,""end"":26,""text"":""Tanzania"",""labels"":[""LOCATION""]}]",41.017,"Elon Musk visited Tanzania last year.","2026-04-20T05:33:09.510805Z"
+
+182,"1","2026-04-20T05:33:35.180747Z",182,"[{""start"":0,""end"":12,""text"":""Barack Obama"",""labels"":[""PERSON""]},{""start"":30,""end"":35,""text"":""Kenya"",""labels"":[""LOCATION""]}]",22.205,"Barack Obama gave a speech in Kenya.","2026-04-20T05:33:35.180747Z"
+
+183,"1","2026-04-20T05:34:07.899118Z",183,"[{""start"":0,""end"":6,""text"":""Google"",""labels"":[""ORGANIZATION""]},{""start"":30,""end"":35,""text"":""Lagos"",""labels"":[""LOCATION""]}]",26.424,"Google opened a new office in Lagos.","2026-04-20T05:34:07.899118Z"
+
+184,"1","2026-04-20T05:34:27.418125Z",184,"[{""start"":0,""end"":15,""text"":""Serena Williams"",""labels"":[""PERSON""]},{""start"":27,""end"":32,""text"":""Paris"",""labels"":[""LOCATION""]}]",15.547,"Serena Williams trained in Paris.","2026-04-20T05:34:27.418125Z"
+
+185,"1","2026-04-20T05:35:44.793393Z",185,"[{""start"":0,""end"":9,""text"":""Microsoft"",""labels"":[""ORGANIZATION""]},{""start"":37,""end"":49,""text"":""South Africa"",""labels"":[""LOCATION""]}]",74.216,"Microsoft announced a partnership in South Africa.","2026-04-20T05:35:44.793393Z"
+
+186,"1","2026-04-20T05:36:02.775065Z",186,"[{""start"":0,""end"":12,""text"":""Lionel Messi"",""labels"":[""PERSON""]},{""start"":25,""end"":30,""text"":""Dubai"",""labels"":[""LOCATION""]}]",13.727,"Lionel Messi traveled to Dubai for an event.","2026-04-20T05:36:02.775065Z"
+
+187,"1","2026-04-20T05:36:21.575432Z",187,"[{""start"":0,""end"":6,""text"":""Amazon"",""labels"":[""ORGANIZATION""]},{""start"":32,""end"":39,""text"":""Nigeria"",""labels"":[""LOCATION""]}]",15.923,"Amazon expanded its services in Nigeria.","2026-04-20T05:36:21.575432Z"
+
+188,"1","2026-04-20T05:36:44.916573Z",188,"[{""start"":0,""end"":13,""text"":""Oprah Winfrey"",""labels"":[""PERSON""]},{""start"":31,""end"":37,""text"":""London"",""labels"":[""LOCATION""]}]",20.328,"Oprah Winfrey hosted a show in London.","2026-04-20T05:36:44.916573Z"
+
+189,"1","2026-04-20T05:37:12.321839Z",189,"[{""start"":0,""end"":8,""text"":""Facebook"",""labels"":[""ORGANIZATION""]},{""start"":35,""end"":40,""text"":""India"",""labels"":[""LOCATION""]}]",20.909,"Facebook launched a new feature in India.","2026-04-20T05:37:12.321839Z"
+
+190,"1","2026-04-20T05:37:31.399198Z",190,"[{""start"":0,""end"":10,""text"":""Bill Gates"",""labels"":[""PERSON""]},{""start"":42,""end"":48,""text"":""Uganda"",""labels"":[""LOCATION""]}]",15.749,"Bill Gates donated funds to a hospital in Uganda.","2026-04-20T05:37:31.399198Z"
+
+191,"1","2026-04-20T05:37:51.515093Z",191,"[{""start"":0,""end"":17,""text"":""Cristiano Ronaldo"",""labels"":[""PERSON""]},{""start"":36,""end"":41,""text"":""Spain"",""labels"":[""LOCATION""]}]",14.295,"Cristiano Ronaldo played a match in Spain.","2026-04-20T05:37:51.515093Z"
+
+192,"1","2026-04-20T05:38:09.603437Z",192,"[{""start"":0,""end"":5,""text"":""Apple"",""labels"":[""ORGANIZATION""]},{""start"":32,""end"":42,""text"":""California"",""labels"":[""LOCATION""]}]",13.557,"Apple released a new product in California.","2026-04-20T05:38:09.603437Z"
+
+193,"1","2026-04-20T05:38:29.930927Z",193,"[{""start"":0,""end"":10,""text"":""Jeff Bezos"",""labels"":[""PERSON""]},{""start"":36,""end"":43,""text"":""Germany"",""labels"":[""LOCATION""]}]",16.534,"Jeff Bezos attended a conference in Germany.","2026-04-20T05:38:29.930927Z"
+
+194,"1","2026-04-20T05:39:17.353467Z",194,"[{""start"":4,""end"":18,""text"":""United Nations"",""labels"":[""ORGANIZATION""]},{""start"":37,""end"":45,""text"":""New York"",""labels"":[""LOCATION""]}]",41.533,"The United Nations held a meeting in New York.","2026-04-20T05:39:17.353467Z"
+
+195,"1","2026-04-20T05:39:42.337267Z",195,"[{""start"":0,""end"":5,""text"":""Tesla"",""labels"":[""ORGANIZATION""]},{""start"":25,""end"":30,""text"":""China"",""labels"":[""LOCATION""]}]",21.195,"Tesla built a factory in China.","2026-04-20T05:39:42.337267Z"
+
+196,"1","2026-04-20T05:40:05.236205Z",196,"[{""start"":0,""end"":15,""text"":""Mark Zuckerberg"",""labels"":[""PERSON""]},{""start"":24,""end"":33,""text"":""Indonesia"",""labels"":[""LOCATION""]}]",16.709,"Mark Zuckerberg visited Indonesia.","2026-04-20T05:40:05.236205Z"
+
+197,"1","2026-04-20T05:40:30.025907Z",197,"[{""start"":4,""end"":29,""text"":""World Health Organization"",""labels"":[""ORGANIZATION""]},{""start"":49,""end"":55,""text"":""Geneva"",""labels"":[""LOCATION""]}]",21.403,"The World Health Organization issued a report in Geneva.","2026-04-20T05:40:30.025907Z"
+
+198,"1","2026-04-20T05:40:59.252729Z",198,"[{""start"":0,""end"":7,""text"":""Jack Ma"",""labels"":[""PERSON""]},{""start"":29,""end"":37,""text"":""Shanghai"",""labels"":[""LOCATION""]}]",25.458,"Jack Ma spoke at an event in Shanghai.","2026-04-20T05:40:59.252729Z"
+
+199,"1","2026-04-20T05:41:17.120321Z",199,"[{""start"":0,""end"":7,""text"":""Netflix"",""labels"":[""ORGANIZATION""]},{""start"":27,""end"":33,""text"":""Canada"",""labels"":[""LOCATION""]}]",14.989,"Netflix filmed a series in Canada.","2026-04-20T05:41:17.120921Z"
+
+200,"1","2026-04-20T05:41:50.926634Z",200,"[{""start"":4,""end"":17,""text"":""African Union"",""labels"":[""ORGANIZATION""]},{""start"":25,""end"":36,""text"":""Addis Ababa"",""labels"":[""LOCATION""]}]",30.575,"The African Union met in Addis Ababa.","2026-04-20T05:41:50.926634Z"
+
+201,"1","2026-04-20T05:42:20.161864Z",201,"[{""start"":0,""end"":9,""text"":""Elon Musk"",""labels"":[""PERSON""]},{""start"":14,""end"":24,""text"":""Bill Gates"",""labels"":[""PERSON""]},{""start"":46,""end"":57,""text"":""Switzerland"",""labels"":[""LOCATION""]}]",25.293,"Elon Musk and Bill Gates attended a summit in Switzerland.","2026-04-20T05:42:20.161864Z"
+
+202,"1","2026-04-20T05:42:50.791583Z",202,"[{""start"":0,""end"":6,""text"":""Google"",""labels"":[""ORGANIZATION""]},{""start"":11,""end"":20,""text"":""Microsoft"",""labels"":[""ORGANIZATION""]},{""start"":58,""end"":64,""text"":""Europe"",""labels"":[""LOCATION""]}]",27.112,"Google and Microsoft are competing in the cloud market in Europe.","2026-04-20T05:42:50.791583Z"
+
+203,"1","2026-04-20T05:43:11.317288Z",203,"[{""start"":4,""end"":14,""text"":""World Bank"",""labels"":[""ORGANIZATION""]},{""start"":35,""end"":43,""text"":""Tanzania"",""labels"":[""LOCATION""]}]",15.795,"The World Bank funded a project in Tanzania.","2026-04-20T05:43:11.318284Z"
+
+204,"1","2026-04-20T05:43:34.825006Z",204,"[{""start"":0,""end"":3,""text"":""IBM"",""labels"":[""ORGANIZATION""]},{""start"":32,""end"":38,""text"":""Brazil"",""labels"":[""LOCATION""]}]",15.133,"IBM opened a research center in Brazil.","2026-04-20T05:43:34.825006Z"
+
+205,"1","2026-04-20T05:43:52.910656Z",205,"[{""start"":0,""end"":13,""text"":""Angela Merkel"",""labels"":[""PERSON""]},{""start"":34,""end"":40,""text"":""Berlin"",""labels"":[""LOCATION""]}]",14.815,"Angela Merkel met with leaders in Berlin.","2026-04-20T05:43:52.910656Z"
+
+206,"1","2026-04-20T05:44:12.194908Z",206,"[{""start"":4,""end"":18,""text"":""European Union"",""labels"":[""ORGANIZATION""]},{""start"":45,""end"":53,""text"":""Brussels"",""labels"":[""LOCATION""]}]",15.439,"The European Union passed new regulations in Brussels.","2026-04-20T05:44:12.194908Z"
+
+207,"1","2026-04-20T05:44:38.349863Z",207,"[{""start"":0,""end"":7,""text"":""Samsung"",""labels"":[""ORGANIZATION""]},{""start"":28,""end"":39,""text"":""South Korea"",""labels"":[""LOCATION""]}]",19.002,"Samsung launched a phone in South Korea.","2026-04-20T05:44:38.349863Z"
+
+208,"1","2026-04-20T05:45:20.201618Z",208,"[{""start"":4,""end"":13,""text"":""Red Cross"",""labels"":[""ORGANIZATION""]},{""start"":30,""end"":35,""text"":""Sudan"",""labels"":[""LOCATION""]}]",38.247,"The Red Cross provided aid in Sudan.","2026-04-20T05:45:20.201618Z"
+
+209,"1","2026-04-20T05:45:42.857319Z",209,"[{""start"":0,""end"":7,""text"":""Twitter"",""labels"":[""ORGANIZATION""]},{""start"":51,""end"":64,""text"":""San Francisco"",""labels"":[""LOCATION""]}]",19.459,"Twitter announced updates from its headquarters in San Francisco.","2026-04-20T05:45:42.857319Z"
+
+210,"1","2026-04-20T05:46:04.514444Z",210,"[{""start"":0,""end"":7,""text"":""Alibaba"",""labels"":[""ORGANIZATION""]},{""start"":33,""end"":42,""text"":""Singapore"",""labels"":[""LOCATION""]}]",18.231,"Alibaba invested in a startup in Singapore.","2026-04-20T05:46:04.514444Z"
+

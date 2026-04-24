@@ -74,7 +74,7 @@ This project focuses on building annotation consistency across increasing levels
   - TIME  
 - Includes entity-rich and no-entity sentences for realistic model training  
 - Edge case handling (ambiguity, partial names, role vs entity conflicts)  
-- Fully structured dataset with consistent labeling rules  
+- Fully structured dataset with consistent labeling rules and QA validation  
 
 📁 Location: `project-2-ner/`
 
@@ -102,6 +102,7 @@ This project introduces intent classification, relevance scoring, and multi-resu
   - Batch 3: Hard (planned – ambiguous queries)  
   - Batch 4: Advanced (planned – noisy real-world queries)  
 - Includes reasoning explanations for annotation decisions  
+- Designed to simulate real-world search ranking evaluation scenarios  
 
 📁 Location: `project-3-search-relevance/`
 

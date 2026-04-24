@@ -1,92 +1,204 @@
 # PROJECT CONTEXT – Data Annotation Portfolio
 
+---
+
 ## 👤 Project Owner
 Nizar Kilale
 
-## 📌 Current Focus
-Building a professional data annotation portfolio for NLP and machine learning use cases.
+---
+
+## 🎯 Overall Objective
+
+Building a professional data annotation portfolio demonstrating real-world skills in:
+- NLP dataset creation
+- annotation consistency systems
+- intent classification
+- search relevance evaluation
+- entity extraction (NER)
+- dataset structuring for machine learning workflows
+
+The final goal is job readiness for AI Data Annotation, NLP labeling, and dataset engineering roles.
 
 ---
 
-## 🧠 Current Active Project
-### Sentiment Annotation – Product Reviews (v2)
+## 📦 PORTFOLIO STRUCTURE (FINAL SYSTEM)
 
-This is a structured sentiment classification dataset project.
+The portfolio consists of 3 structured projects:
 
----
+### Project 1 – Sentiment Analysis (Product Reviews)
+Binary sentiment classification dataset.
 
-## 📊 Dataset Overview (v2)
+### Project 2 – Named Entity Recognition (NER)
+Entity extraction and classification from general text.
 
-- Total samples: 120
-- Format: CSV
-- Labels: Positive / Negative
-- Structure: Multi-batch annotation system
-
----
-
-## 🧩 Batch Structure
-
-- Batch 1 → General sentiment
-- Batch 2 → Emotion intensity
-- Batch 3 → Value vs quality perception
-- Batch 4 → Edge cases (sarcasm, ambiguity, mixed sentiment)
+### Project 3 – Search Relevance Evaluation
+Query → results → intent → relevance scoring system.
 
 ---
 
-## 📁 Current GitHub Structure
+# 🧭 CURRENT STATUS OVERVIEW
 
-- dataset-v1.csv (legacy)
-- dataset-clean-v1.csv (legacy)
-- sentiment-product-reviews_batch-01_clean/raw
-- sentiment-product-reviews_batch-02_clean/raw
-- sentiment-product-reviews_batch-03_clean/raw
-- sentiment-product-reviews_batch-04_clean/raw
-- sentiment-product-reviews_v2_full_raw.csv
-- sentiment-product-reviews_v2_full_clean.csv
+## ✅ COMPLETED WORK
 
----
+### ✔ Project 1 – Sentiment Analysis (COMPLETED)
+- 120 labeled samples
+- Binary classification (Positive / Negative)
+- Multi-batch system (4 batches)
+- Raw + cleaned datasets created
+- GitHub structure implemented
+- Annotation pipeline fully established
 
-## ⚙️ Tools Used
-
-- Label Studio (annotation)
-- Python (pandas for merging/cleaning)
-- GitHub (version control)
-- CSV format datasets
-
----
-
-## 🧪 Annotation Guidelines Summary
-
-- Positive → satisfaction, meets expectations, positive experience
-- Negative → dissatisfaction, unmet expectations, complaints
-
-Rule: If unclear, choose based on overall sentiment direction.
+### ✔ Project 2 – NER (COMPLETED STRUCTURE + DATASETS)
+- Multi-batch annotation system created
+- Entity types defined:
+  - PERSON
+  - LOCATION
+  - ORGANIZATION
+  - DATE
+  - TIME
+- Edge cases included
+- Dataset structured in CSV format
+- GitHub folders organized (data/docs/README)
 
 ---
 
-## 🚀 Current Status
+## 🚧 CURRENT ACTIVE PROJECT
 
-✔ v2 dataset completed (120 samples)  
-✔ raw + clean pipeline built  
-✔ multi-batch annotation system implemented  
-✔ GitHub repository structured  
+### 🔎 Project 3 – Search Relevance Evaluation (IN PROGRESS)
 
----
-
-## 🎯 Next Steps
-
-1. Build Annotation Case Study (portfolio-level documentation)
-2. Add PROJECT_CONTEXT system to all future projects
-3. Start new project:
-   - Named Entity Recognition (NER) annotation
-4. Add annotation quality control system (Python-based)
+This project simulates real-world search engine evaluation.
 
 ---
 
-## 🧭 Long-Term Goal
+## 📊 PROJECT 3 DATA STRUCTURE
 
-Become a professional AI data annotation specialist with:
-- multi-type annotation skills
-- portfolio-ready GitHub projects
-- structured documentation system
-- real-world dataset experience
+Each record contains:
+- Query
+- 3 simulated search results
+- Relevance labels (High / Medium / Low)
+- Intent classification:
+  - Informational
+  - Transactional
+  - Navigational
+- Reasoning for annotation decisions
+
+---
+
+## 🧩 PROJECT 3 BATCH PROGRESS
+
+### ✔ Batch 1 – Completed
+- Simple / clear queries
+- Basic intent classification
+- Straightforward relevance mapping
+
+### ✔ Batch 2 – Completed
+- More realistic search behavior
+- Mixed relevance results
+- Increased ambiguity
+- Edge cases introduced (intent vs relevance confusion resolved)
+
+### 🔜 Batch 3 – Next
+- Ambiguous queries
+- Multi-interpretation intent cases
+- Hard relevance decisions
+- Increased reasoning complexity
+
+### 🔜 Batch 4 – Final Stage
+- Noisy real-world queries
+- Informal / incomplete queries
+- Misleading or partially relevant results
+- Full complexity evaluation layer
+
+---
+
+## 📁 CURRENT GITHUB STRUCTURE (UPDATED STATE)
+
+data-annotation-portfolio/
+│
+├── project-1-sentiment-analysis/
+│   ├── data/
+│   ├── docs/
+│   └── README.md
+│
+├── project-2-ner/
+│   ├── data/
+│   ├── docs/
+│   └── README.md
+│
+├── project-3-search-relevance/
+│   ├── data/
+│   ├── docs/
+│   └── README.md
+│
+└── README.md (portfolio overview)
+
+---
+
+## ⚙️ TOOLS AND WORKFLOW USED
+
+- Label Studio → annotation tasks
+- Google Sheets → dataset structuring
+- Python (pandas) → cleaning and merging datasets
+- GitHub → version control and portfolio structure
+- Notion → planning and workflow tracking
+- LinkedIn → professional visibility and job targeting
+
+---
+
+## 🧪 ANNOTATION SYSTEMS DEVELOPED
+
+Across projects, the following systems were built:
+
+- Sentiment classification framework
+- Named entity recognition pipeline
+- Search relevance evaluation system
+- Intent classification system
+- Multi-batch annotation progression design
+- Edge case handling logic (ambiguity + conflicting signals)
+- Consistency rules for labeling decisions
+
+---
+
+## 🚀 WHAT HAS BEEN ACHIEVED SO FAR
+
+✔ 3 structured annotation projects designed  
+✔ 2 projects fully completed (P1 + P2)  
+✔ Project 3 actively progressing (Batch 1 + 2 complete)  
+✔ Multi-batch system successfully implemented across projects  
+✔ GitHub portfolio structured professionally  
+✔ Annotation guidelines and dataset standards established  
+✔ Toolchain established (Label Studio + Python + GitHub + Notion)
+
+---
+
+## 🔜 NEXT STEPS
+
+### Phase 1 – Complete Project 3
+1. Build Batch 3 (Ambiguous queries)
+2. Build Batch 4 (Advanced real-world noise cases)
+3. Finalize dataset merge + cleanup
+4. Create Project 3 documentation (case study level)
+
+---
+
+### Phase 2 – Portfolio Completion
+5. Finalize GitHub presentation layer (README optimization)
+6. Align all projects under unified documentation system
+7. Create Notion portfolio dashboard (structured showcase page)
+
+---
+
+### Phase 3 – Job Readiness Layer
+8. Convert projects into case studies (LinkedIn-ready content)
+9. Prepare application-ready portfolio summary
+10. Target AI/data annotation job applications
+
+---
+
+## 🧭 LONG-TERM GOAL
+
+Become a professional AI Data Annotation Specialist with:
+- strong NLP dataset experience
+- structured annotation workflows
+- production-level GitHub portfolio
+- ability to design and evaluate training datasets for AI models

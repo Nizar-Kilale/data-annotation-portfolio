@@ -16,24 +16,26 @@ Each project reflects a different aspect of annotation work, starting from senti
 
 ## 📂 Repository Structure
 
+```text
 data-annotation-portfolio/
-│
+
 ├── project-1-sentiment-analysis/
 │   ├── data/
 │   ├── docs/
 │   └── README.md
-│
+
 ├── project-2-ner/
 │   ├── data/
 │   ├── docs/
 │   └── README.md
-│
+
 ├── project-3-search-relevance/
 │   ├── data/
 │   ├── docs/
 │   └── README.md
-│
-└── README.md   (Portfolio overview)
+
+└── README.md (Portfolio overview)
+```
 
 ---
 

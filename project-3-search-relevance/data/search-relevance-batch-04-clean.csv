@@ -1,0 +1,43 @@
+,,,"--- BATCH 4: NOISY, AMBIGUOUS & REAL-WORLD QUERIES ---",,,,,,
+,,,,,,,,,
+,query  ,result_1,result_2,result_3,relevance_1,relevance_2,relevance_3,intent,difficulty
+1,cheap safari,tanzania budget safari packages,safari cost africa guide,luxury safari lodges africa,High,Medium,Low,Informational,Noisy
+2,best phone,good smartphones 2025,phone accessories shop,mobile repair near me,High,Low,Low,Informational,Noisy
+3,learn coding,free coding tutorials for beginners,best programming courses online,gaming laptop deals,High,High,Low,Informational,Noisy
+4,travel to africa requirements,africa travel visa requirements,covid travel restrictions africa,best hotels in africa,High,High,Low,Informational,Noisy
+5,make money online,freelancing platforms list,ways to earn money online 2025,online casino sites,High,High,Low,Informational,Noisy
+6,buy laptop online,laptops for sale online,best laptops for students,laptop repair services,High,High,Low,Transctional,Noisy
+7,restaurant near airport,restaurants near airport location map,food delivery apps near airport,airport parking services,High,Medium,Low,Transactional,Noisy
+8,how to invest,investment options for beginners,stock market basics explained,best crypto exchanges,High,High,Medium,Informational,Noisy
+9,cheap flights,best flight deals 2025,airline booking websites,travel insurance plans,High,Medium,Low,Transactional,Noisy
+10,gym near me,gyms near me open now,home workout plans,fitness equipment online,High,Low,Low,Transactional,Noisy
+11,start business,small business ideas guide,business registration process,business loan providers,High,High,Medium,Informational,Noisy
+12,best university,top universities worldwide,university ranking 2025,student accommodation options,High,High,Low,Informational,Noisy
+13,weather today,current weather forecast today,climate change report,global weather patterns,High,Low,Low,Informational,Noisy
+14,hotel booking,best hotel booking sites,cheap hotels deals,travel blogs europe,High,High,Low,Transactional,Noisy
+15,car rental,rent a car services near me,car hire prices comparison,car repair garages,High,High,Low,Transactional,Noisy
+16,best insurance,top insurance companies,health insurance plans guide,car insurance quotes,High,High,Medium,Informational,Noisy
+17,open bank account,how to open bank account online,best banks comparison,money transfer services,High,High,Low,Informational,Noisy
+18,learn English,english learning apps,best english courses online,travel english phrases,High,High,Medium,Informational,Noisy
+19,buy phone,best smartphones to buy 2025,phone deals online,mobile accessories shop,High,High,Low,Transactional,Noisy
+20,doctor near me,doctors near me available now,online medical consultation,health tips blog,High,Medium,Low,Transactional,Noisy
+21,cheap hotels,budget hotels deals,hotel booking websites,luxury resorts packages,High,High,Low,Transactional,Noisy
+22,study abroad,study abroad programs guide,best countries to study,university scholarships,High,High,Medium,Informational,Noisy
+23,online jobs,work from home jobs list,freelancing platforms,online gambling sites,High,High,Low,Informational,Noisy
+24,best investment,investment options 2025,stock vs real estate comparison,save money tips,High,High,Low,Informational,Noisy
+25,taxi near me,taxi booking apps near me,public transport guide,car sales websites,High,Low,Low,Transactional,Noisy
+26,how to lose weight,weight loss tips diet plan,exercise routines for weight loss,gym membership offers,High,High,Low,Informational,Noisy
+27,buy car,cars for sale online,best car deals 2025,car insurance plans,High,High,Medium,Transactional,Noisy
+28,best laptop,laptops for work and study,top laptop brands comparison,laptop accessories shop,Medium,High,Low,Informational,Noisy
+29,travel insurance,travel insurance plans comparison,best insurance companies,flight booking websites,High,High,Low,Informational,Noisy
+30,food near me,best restaurants near me,food delivery apps,cooking recipes online,High,High,Low,Transactional,Noisy
+31,start freelancing,freelancing guide for beginners,best freelance websites,job listings online,High,High,Medium,Transactional,Noisy
+32,best courses,top online courses 2025,free courses online,course certificates providers,High,Medium,Medium,Informational,Noisy
+33,money transfer,send money abroad services,international transfer fees comparison,cryptocurrency trading apps,High,High,Low,Informational,Noisy
+34,rent house,houses for rent near me,property listings real estate,home loan options,High,High,Medium,Transactional,Noisy
+35,best country to visit,top travel destinations 2025,visa requirements by country,flight ticket deals,High,Medium,Medium,Informational,Noisy
+36,internet providers,best internet service providers,broadband plans comparison,streaming services,High,High,Low,Informational,Noisy
+37,cheap insurance,car insurance cheap plans,health insurance comparison guide,insurance claim process,High,High,Low,Informational,Noisy
+38,learn business,business basics for beginners,how to start a company guide,marketing tools software,High,High,Medium,Informational,Noisy
+39,best camera,top cameras for photography,camera comparison reviews,camera accessories shop,High,High,Low,Informational,Noisy
+40,job search,job search websites,best job portals online,resume writing tips,High,High,Medium,Informational,Noisy

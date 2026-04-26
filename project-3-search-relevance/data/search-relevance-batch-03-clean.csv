@@ -1,0 +1,45 @@
+,,,--- BATCH 3: AMBIGUOUS & COMPARATIVE QUERIES ---,,,,,,
+,,,,,,,,,
+,query  ,result_1,result_2,result_3,relevance_1,relevance_2,relevance_3,intent,difficulty
+1,best safari experience Africa,luxury African safari experiences guide,best national parks in Africa safari,cheap flights to Africa deals,High,Medium,Low,Informational,Hard
+2,Serengeti or Maasai Mara which is better,Serengeti vs Maasai Mara safari comparison,Maasai Mara tour packages Kenya,Tanzania travel visa requirements,High,Medium,Low,Informational,Hard
+3,Zanzibar vs Maldives holiday,Zanzibar vs Maldives comparison guide,best Zanzibar beaches list,Maldives luxury resorts booking,High,Medium,Low,Informational,Hard
+4,is Tanzania safe for solo travel,Tanzania solo travel safety tips,crime rates in East Africa,report lost passport abroad,High,Medium,Low,Informational,Hard
+5,things to do in Zanzibar for couples,romantic things to do in Zanzibar,Zanzibar honeymoon packages,best restaurants in Zanzibar,High,Medium,Medium,Informational,Hard
+6,how much does a luxury safari cost,luxury safari cost breakdown Africa,top luxury safari lodges Tanzania,budget travel tips Africa,High,Medium,Low,Informational,Hard
+7,when to visit Serengeti migration,Serengeti migration best time guide,Great migration calendar Tanzania,Zanzibar weather today,High,High,Low,Informational,Hard
+8,best places to visit in East Africa,top tourist destinations East Africa,Kenya safari packages,cheap flights to Dubai,High,Medium,Low,Informational,Hard
+9,best laptop for university students 2025,best laptops for students 2025,list of affordable student laptops,laptop repair services near me,High,High,Low,Transactional,Hard
+10,MacBook Air vs Pro for coding,MacBook Air vs Pro comparison for developers,best laptops for programming students,iPhone accessories store,High,Medium,Low,Informational,Hard
+11,cheap gaming laptop under 1000,best budget gaming laptops under $1000,gaming laptop performance comparison,gaming chairs online shop,High,Medium,Low,Transactional,Hard
+12,is Samsung better than iPhone,Samsung vs iPhone comparison guide,best Android phones 2025,mobile phone repair services,High,Medium,Low,Informational,Hard
+13,best phone for photography 2025,best camera phones 2025,top smartphones for photography,photo editing software tools,High,High,Low,Informational,Hard
+14,what laptop do programmers use,best laptops used by developers,programming laptop specs guide,learn coding online free,High,Medium,Low,Informational,Hard
+15,gaming laptop vs normal laptop,difference between gaming and regular laptops,best gaming laptops 2025,computer repair services,High,Medium,Low,Informational,Hard
+16,which processor is best for gaming,best processors for gaming 2025,CPU performance comparison guide,best gaming monitors,High,High,Low,Informations,Hard
+17,how to invest money for beginners,beginner investment guide,stock market basics explained,buy cryptocurrency online,High,High,Low,Informational,Hard
+18,best way to send money internationally,international money transfer services,compare transfer fees worldwide,open bank account online,High,High,Low,Informational,Hard
+19,is forex trading profitable,forex trading risks and benefits,how forex market works,best forex brokers list,High,Medium,Low,Informational,Hard
+20,how to make money online 2026,ways to make money online 2026,best freelance platforms,online casino websites,High,Medium,Low,Informational,Hard
+21,best investment options in Africa,top investment opportunities Africa,real estate investment Africa,how to save money tips,High,Highh,Low,Informational,Hard
+22,how to budget salary effectively,budgeting tips for beginners,personal finance management guide,best banking apps,High,High,Low,Informational,Hard
+23,is cryptocurrency a good investment,crypto investment pros and cons,Bitcoin price prediction 2026,best crypto exchanges,High,Medium,Low,Informational,Hard
+24,how to start a small business online,steps to start online business,ecommerce business guide,best website builders,High,High,Low,Informational,Hard
+25,learn data science from scratch,data science learning roadmap,beginner data science courses online,data science salary statistics,High,High,Low,Transactional,Hard
+26,best online courses for programming,top programming courses online,free coding tutorials YouTube,online degree programs,High,High,Medium,Infromational,Hard
+27,how long does it take to learn Python,time to learn Python for beginners,Python learning roadmap,best laptops for coding,High,Medium,Low,Informational,Hard
+28,AI tools everyone should know,popular AI tools list 2025,best AI tools for productivity,advanced AI research papers,High,High,Low,Informational,Hard
+29,what can you do with coding,applications of programming skills,career paths in software development,gaming apps download,High,High,Low,Informational,Hard
+30,how to learn faster and remember,study techniques and memory tips,how to improve learning speed,best online courses platforms,High,High,Low,Informational,Hard
+31,build website without coding,no-code website builders guide,Wix vs WordPress comparison,web hosting services pricing,High,Low,Low,Informational,Hard
+32,how to become a freelancer,freelancing guide for beginners,best freelance websites,remote jobs listings,High,High,Medium,Informational,Hard
+33,best hospital in Dar es Salaam,top hospitals in Dar es Salaam,private hospitals Tanzania list,health insurance providers,High,Medium,Low,Informational ,Hard
+34,ATM machines near me,open ATM locations nearby,bank branches near me,mobile banking apps,High,High,Low,Transactional,Hard
+35,places to eat near me,best restaurants nearby,food delivery apps list,cooking recipes blog,High,Medium,Low,Transactional,Hard
+36,cheap transport in Zanzibar,Zanzibar transport options guide,taxi services Zanzibar price,car rental Zanzibar,High,High,Medium,Transactional,Hard
+37,pharmacy open 24 hours near me,24 hour pharmacies near me,emergency pharmacy locations,online medicine delivery,High,High,Low,Transactional,Hard
+38,how to get around Dar es Salaam,Dar es Salaam transport guide,best taxi apps Tanzania,flight booking sites,High,High,Low,Informational,Hard
+39,best way to improve skills,fast skill improvement techniques,online learning platforms,list of universities worldwide,High,High,Medium,Informational,Hard
+40,best travel option for vacation,top travel destinations 2025,flight booking websites,travel insurance plans,High,Medium,Medium,Informational,Hard
+41,cheap business ideas that work,low cost business ideas guide,start small business online,business loans options,High,medium,Low,Transactional,Hard
+42,where should I invest my money,best places to invest money 2025,stock vs real estate comparison,open savings account,High,Medium,Low,Transactional,Hard

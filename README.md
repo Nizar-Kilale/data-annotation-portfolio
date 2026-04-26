@@ -6,36 +6,34 @@ A structured portfolio of data annotation projects for machine learning datasets
 
 ## 📌 Overview
 
-This repository showcases practical data annotation projects designed to demonstrate real-world dataset creation, labeling consistency, and preparation for machine learning applications.
+This repository showcases practical, real-world data annotation projects designed to demonstrate dataset creation, labeling consistency, and preparation for machine learning and NLP systems.
 
-The focus is on building high-quality, structured datasets while following clear annotation guidelines, progressive complexity design, and reproducible workflows.
+The focus is on building high-quality, structured datasets while applying clear annotation guidelines, progressive complexity design, and reproducible workflows.
 
-Each project reflects a different aspect of annotation work, starting from sentiment classification, progressing into named entity recognition, and advancing into search relevance evaluation systems.
+Each project reflects a different layer of annotation work, progressing from sentiment classification to named entity recognition, and advancing into search relevance evaluation systems that simulate real-world ranking tasks.
 
 ---
 
 ## 📂 Repository Structure
 
-```text
 data-annotation-portfolio/
 
-├── project-1-sentiment-analysis/
-│   ├── data/
-│   ├── docs/
-│   └── README.md
+├── project-1-sentiment-analysis/  
+│   ├── data/  
+│   ├── docs/  
+│   └── README.md  
 
-├── project-2-ner/
-│   ├── data/
-│   ├── docs/
-│   └── README.md
+├── project-2-ner/  
+│   ├── data/  
+│   ├── docs/  
+│   └── README.md  
 
-├── project-3-search-relevance/
-│   ├── data/
-│   ├── docs/
-│   └── README.md
+├── project-3-search-relevance/  
+│   ├── data/  
+│   ├── docs/  
+│   └── README.md  
 
 └── README.md (Portfolio overview)
-```
 
 ---
 
@@ -54,7 +52,8 @@ A structured sentiment classification dataset built using a multi-batch annotati
   - General sentiment  
   - Emotion intensity  
   - Value vs quality perception  
-  - Edge cases (sarcasm, ambiguity, mixed sentiment)
+  - Edge cases (sarcasm, ambiguity, mixed sentiment)  
+- Raw and clean dataset pipeline  
 
 📁 Location: `project-1-sentiment-analysis/`
 
@@ -77,16 +76,17 @@ This project focuses on building annotation consistency across increasing levels
 - Includes entity-rich and no-entity sentences for realistic model training  
 - Edge case handling (ambiguity, partial names, role vs entity conflicts)  
 - Fully structured dataset with consistent labeling rules and QA validation  
+- Raw and cleaned dataset versions  
 
 📁 Location: `project-2-ner/`
 
 ---
 
-### 3. Search Relevance Evaluation Dataset (v1–v2)
+### 3. Search Relevance Evaluation Dataset (v1)
 
-A structured dataset designed to simulate real-world search engine behavior by evaluating how well search results satisfy user intent.
+A structured dataset designed to simulate real-world search engine ranking and evaluation workflows by assessing how well search results satisfy user intent.
 
-This project introduces intent classification, relevance scoring, and multi-result evaluation per query.
+This project introduces intent classification, multi-result relevance scoring, and decision-based evaluation under ambiguity.
 
 **Key Features:**
 - Query-based evaluation system (3 results per query)  
@@ -98,13 +98,14 @@ This project introduces intent classification, relevance scoring, and multi-resu
   - High  
   - Medium  
   - Low  
-- Multi-batch design:
-  - Batch 1: Easy / clear queries  
-  - Batch 2: Medium / realistic ambiguity  
-  - Batch 3: Hard (planned – ambiguous queries)  
-  - Batch 4: Advanced (planned – noisy real-world queries)  
-- Includes reasoning explanations for annotation decisions  
-- Designed to simulate real-world search ranking evaluation scenarios  
+- Progressive multi-batch design:
+  - Batch 1: Clear intent (Easy)  
+  - Batch 2: Mixed intent (Medium)  
+  - Batch 3: Ambiguous queries (Hard)  
+  - Batch 4: Noisy real-world queries (Advanced)  
+- Includes annotation reasoning (raw datasets)  
+- Clean, model-ready dataset versions  
+- Designed to reflect real-world search ranking challenges  
 
 📁 Location: `project-3-search-relevance/`
 
@@ -119,7 +120,7 @@ This project introduces intent classification, relevance scoring, and multi-resu
 - Intent classification systems  
 - Handling ambiguity and edge cases in NLP tasks  
 - Dataset structuring, cleaning, and versioning  
-- Annotation guideline development  
+- Annotation guideline development and QA processes  
 - Multi-batch dataset design for progressive difficulty  
 - Python (pandas) for dataset processing  
 - Git/GitHub for version control and portfolio organization  
@@ -146,4 +147,4 @@ This project introduces intent classification, relevance scoring, and multi-resu
 
 To develop professional-level data annotation and dataset engineering skills applicable to AI, NLP, and machine learning workflows.
 
-This portfolio demonstrates progression from basic sentiment classification to structured entity recognition and advanced search relevance evaluation systems used in real-world AI training pipelines.
+This portfolio demonstrates progression from basic sentiment classification to structured entity recognition and advanced search relevance evaluation systems that reflect real-world AI training and ranking environments.

@@ -1,4 +1,4 @@
-# PROJECT CONTEXT – Data Annotation Portfolio
+# PORTFOLIO STRATEGY – Data Annotation Portfolio
 
 ---
 

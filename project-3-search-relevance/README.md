@@ -1,12 +1,16 @@
-# 🔎 Search Relevance Evaluation Dataset
+# 🔎 Search Relevance Evaluation Dataset (v1)
+
+---
 
 ## 📌 Project Overview
 
-This project is a structured Search Relevance Evaluation Dataset designed to simulate real-world search engine behavior. It focuses on understanding how well different search results satisfy user intent across varying levels of query clarity and ambiguity.
+This project is a structured Search Relevance Evaluation Dataset designed to simulate real-world search engine ranking and evaluation workflows.
 
-The dataset was built manually using a multi-batch approach to reflect increasing levels of difficulty in search evaluation tasks.
+It focuses on how effectively search results satisfy user intent across varying levels of query clarity, ambiguity, and noise.
 
-This project is part of a broader Data Annotation Portfolio.
+Unlike simple classification tasks, this dataset evaluates **multiple results per query**, reflecting how modern search systems rank competing results.
+
+The dataset is part of a broader Data Annotation Portfolio, demonstrating practical skills in NLP annotation, search evaluation, and intent classification.
 
 ---
 
@@ -14,30 +18,31 @@ This project is part of a broader Data Annotation Portfolio.
 
 The goal of this project is to:
 
--- Evaluate how relevant different search results are to a given user query  
--- Classify user intent accurately  
--- Simulate real-world search engine ranking evaluation scenarios  
--- Train consistent decision-making in relevance labeling  
+-- Evaluate relevance of multiple results for a single query  
+-- Accurately classify user intent  
+-- Simulate real-world search ranking evaluation tasks  
+-- Develop consistent decision-making under ambiguity  
+-- Build a dataset suitable for NLP and ranking model training  
 
 ---
 
 ## 🧠 Intent Classification System
 
-Each query is categorized into one of the following intent types:
+Each query is categorized into one of the following:
 
--- **Informational** → User is seeking knowledge or understanding  
--- **Transactional** → User is comparing, choosing, or preparing to take action  
--- **Navigational** → User is trying to reach a specific website, app, or page  
+-- **Informational** → User wants to learn or understand  
+-- **Transactional** → User intends to take action (buy, visit, book, choose)  
+-- **Navigational** → User is searching for a specific site or destination  
 
 ---
 
 ## 📊 Relevance Scoring System
 
-Each search result is labeled based on usefulness to the query:
+Each result is evaluated independently:
 
--- **High Relevance** → Directly satisfies the user’s intent  
--- **Medium Relevance** → Partially useful or indirectly helpful  
--- **Low Relevance** → Not useful or unrelated to the intent  
+-- **High** → Directly satisfies user intent  
+-- **Medium** → Partially helpful or supports decision-making  
+-- **Low** → Irrelevant or does not match user need  
 
 ---
 
@@ -46,79 +51,136 @@ Each search result is labeled based on usefulness to the query:
 Each row contains:
 
 -- Query  
--- Three simulated search results  
--- Relevance scores for each result  
+-- Result 1, Result 2, Result 3  
+-- Relevance labels for each result  
 -- Intent classification  
--- Reasoning explanation  
+-- Difficulty level (Easy → Noisy)  
+-- Annotation notes (raw dataset only)  
 
 ---
 
-## 🧪 Batch Structure
+## 🧪 Dataset Design (Progressive Complexity)
 
-This dataset is built in progressive difficulty levels:
+The dataset is structured into four batches:
 
-### ✔ Batch 1 — Easy
-Clear queries with obvious intent and straightforward relevance judgments.
+### ✔ Batch 1 — Clear Intent (Easy)
+Straightforward queries with direct relevance mapping.
 
-### ✔ Batch 2 — Medium
-Queries with mixed relevance, partial matches, and realistic ambiguity.
+### ✔ Batch 2 — Mixed Intent (Medium)
+Queries with overlapping intent and partial matches.
 
-### 🔜 Batch 3 — Hard (Planned)
-Ambiguous queries with multiple possible interpretations requiring deeper reasoning.
+### ✔ Batch 3 — Ambiguous & Decision-Based (Hard)
+Queries requiring interpretation, comparison, and reasoning.
 
-### 🔜 Batch 4 — Advanced (Planned)
-Noisy, real-world-like queries including slang, incomplete phrases, and misleading results.
+### ✔ Batch 4 — Noisy & Real-World (Advanced)
+Vague, incomplete, and realistic queries with misleading results.
+
+This progression reflects real-world annotation difficulty in production environments.
 
 ---
 
 ## ⚙️ Methodology
 
--- Queries were manually designed to simulate real user search behavior  
--- Search results were synthetically generated to reflect real-world ranking noise  
--- Relevance was evaluated based on user intent satisfaction, not keyword matching  
--- Edge cases were included to test ambiguity handling  
+-- Queries were manually designed to reflect real user behavior  
+-- Results were intentionally simulated to include both relevant and misleading outputs  
+-- Relevance was judged based on intent satisfaction, not keyword matching  
+-- Multiple review passes were conducted to improve consistency  
+-- Edge cases were included to simulate real-world ambiguity  
 
 ---
 
 ## 🧠 Key Challenges Addressed
 
--- Intent ambiguity in real-world queries  
--- Distinguishing medium vs high relevance  
--- Avoiding keyword-based bias in evaluation  
--- Handling incomplete or vague queries  
+-- Interpreting ambiguous user intent  
+-- Differentiating High vs Medium relevance  
+-- Handling alternative vs direct results  
+-- Avoiding keyword bias in evaluation  
+-- Evaluating noisy and incomplete queries  
 
 ---
 
-## 📁 Technologies Used
+## 📂 Dataset Files
 
--- Google Sheets (dataset creation)  
--- Manual annotation process  
--- Structured labeling framework  
+```text
+data/
+├── search-relevance-v1-raw.csv
+├── search-relevance-v1-clean.csv
+├── search-relevance-batch-01-raw.csv
+├── search-relevance-batch-01-clean.csv
+├── search-relevance-batch-02-raw.csv
+├── search-relevance-batch-02-clean.csv
+├── search-relevance-batch-03-raw.csv
+├── search-relevance-batch-03-clean.csv
+├── search-relevance-batch-04-raw.csv
+└── search-relevance-batch-04-clean.csv
+```
+
 
 ---
 
-## 📌 Future Work
+## 🔍 Key Features
 
--- Completion of Batch 3 (Ambiguous queries)  
--- Completion of Batch 4 (Noisy real-world queries)  
--- Potential conversion into ML training dataset format  
+-- Multi-result relevance evaluation  
+-- Intent-driven labeling system  
+-- Progressive difficulty design  
+-- Real-world ambiguity simulation  
+-- Raw + clean dataset pipeline  
+-- Annotation reasoning included  
+
+---
+
+## 🚀 Use Cases
+
+-- Search ranking model training  
+-- NLP relevance evaluation tasks  
+-- Intent classification systems  
+-- Dataset benchmarking  
+-- Human-in-the-loop AI workflows  
+
+---
+
+## 🛠 Tools Used
+
+-- Google Sheets  
+-- Manual annotation framework  
+-- Structured labeling methodology  
+-- GitHub (version control & dataset management)  
+
+---
+
+## 📌 Project Significance
+
+This project goes beyond basic annotation by replicating **real-world search evaluation workflows**, where:
+
+-- Multiple results compete for relevance  
+-- User intent is often unclear or mixed  
+-- Not all useful results are direct answers  
+
+It demonstrates the ability to make consistent, high-quality annotation decisions in complex scenarios.
 
 ---
 
 ## 🚀 Author Notes
 
-This project demonstrates skills in:
+This project demonstrates:
 
--- Data annotation for NLP tasks  
--- Search relevance evaluation  
--- Intent classification systems  
--- Dataset design and quality control  
+-- Search relevance evaluation skills  
+-- Intent classification expertise  
+-- Handling ambiguity in NLP tasks  
+-- Dataset structuring and cleaning  
+-- Annotation consistency and QA thinking  
 
 ---
 
 ## 📎 Repository Structure
 
-project-3-search-relevance/  
--- data/  
--- docs/  
--- README.md  
+```text
+project-3-search-relevance/
+
+├── data/
+├── docs/
+└── README.md
+```
+
+
+---

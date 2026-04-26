@@ -1,0 +1,54 @@
+,,,--- BATCH 2: MIXED INTENT ---,,,,,,,
+,,,,,,,,,,
+,query  ,result_1,result_2,result_3,relevance_1,relevance_2,relevance_3,intent,difficulty,reasoning (raw only)
+,🔹 Travel & Local Intent (real-world ambiguity),,,,,,,,,
+1,best safari companies in Tanzania,Serengeti safari packages Tanzania,Top safari operators Tanzania reviews,Cheap flights to Kenya,Medium,High,Low,Transactional,Medium,User is searching for safari booking options in Tanzania
+2,safari packages Serengeti vs Ngorongoro,Serengeti vs Ngorongoro comparison guide,7-day Tanzania safari itinerary,Zanzibar beach resorts,High,Medium,Low,Transactional,Medium,User is comparing National parks so that he/she can visit one.
+3,cheapest way to travel Zanzibar,Ferry from Dar es Salaam to Zanzibar price,Budget flights to Zanzibar deals,Luxury Zanzibar hotels,High,High,Low,Transactional,Medium,User is s comparing cheap transport options in Zanzibar
+4,things to do in Dar es Salaam at night,Nightlife in Dar es Salaam guide,Best restaurants Dar es Salaam,Tanzania weather forecast today,High,High,Low,Informational,Medium,User wants to find out about night activities in Dar es salaam
+5,hotels near Zanzibar beach,Beach hotels in Zanzibar booking,Zanzibar accommodation listings,Kenya safari travel guide,Medium,High,Low,Transactional,Medium,User wants to book a hotel ner Zanzibar Beach.
+6,how much is a safari in Africa,African safari cost breakdown (budget vs luxury),Serengeti safari packages pricing guide,Cheap flights from Europe to Asia deals,High,High,Low,Transactional,Medium,User wants to compare safari costs Africa
+7,Tanzania travel safety tips,Tanzania travel safety guide for tourists,Crime statistics in East Africa overview, Best safari companies in Tanzania,High,High,Low,Informational,Medium,User wants to find out about tourist safety in east Africa
+8,best time to go on safari East Africa,Best months for safari in Kenya and Tanzania,Serengeti migration calendar guide,Zanzibar beach resort deals,High,High,Low,Transactional,Medium,User wants to find out about best months to visit Kenya and Tanzania so as to book a safari
+,,,,,,,,,,
+,🔹 Tech / Product Comparison Intent,,,,,,,,,
+9,best laptop for programming students,Best programming laptops for students guide,Laptop comparison for coding and software development,Cheap laptop deals for gaming accessories,High,High,Low,Transactional,Medium,User wants to find out best laptops for programing with the intent of purchasing one.
+10,MacBook vs Dell for university,MacBook vs Windows laptops for students comparison,Best laptops for university students engineering,MacBook repair price guide,High,Medium,Low,Informational,Medium,User wants to compare between mac book and dell laptops.
+11,cheap smartphones under 200 dollars,Budget smartphones under $200 list 2025,Best Android phones under 300 dollars,Cheap phone accessories online store,High,High,Low,Transactional,Medium,User what to find cheap smartphones with the intent of buying one.
+12,is iPhone 15 worth it,iPhone 15 features and specifications review,Is iPhone 15 worth buying in 2025,Android vs iPhone comparison guide,High,High,Low,Transactional,Medium,User wants to find out if I phone 15 is worthy buying so as to buy it.
+13,best Android phones 2025,Best Android phones 2025 rankings,Top smartphone brands comparison,Phone camera accessories for smartphones,High,Medium,low,Informational,Medium,User wants to compare android smartphones
+14,laptop specs for coding,Laptop specifications for programming guide,Minimum specs for coding and software development,Best laptops for gaming performance,High,High,Low ,Transactional,Medium,User wants to find out specifications for a coding laptop so that he can buy one
+15,how to choose a gaming laptop,How to choose a gaming laptop guide,Best gaming laptops 2025 list,Gaming laptop cooling systems explained,High,Low,Medium,Transactional,Medium,User wants to know the process of choosing a gaming laptop
+16,fastest phone processor,Fastest smartphone processors 2025 ranking,Mobile chipset comparison Snapdragon vs Apple,Best budget phones performance test,HIgh,High,Medium,Informational,Medium,User wants to know which smartphone processor is the fastest
+,,,,,,,,,,
+,🔹 Financial / Decision-Making Intent,,,,,,,,,
+17,how to start investing in stocks,How to start investing in stocks beginners guide,Stock market basics and investment strategies,Buy luxury watches online,High,High,Low,Informational,Medium,User wants to learn how to start investing in scok markets and begin investing
+18,best banks in Tanzania,Top banks in Tanzania comparison,Bank account types and services Tanzania,Best investment platforms worldwide,High,Medium,Low,Transactional,Medium,User wants to find out the best bank in tanzania with the intent of joining it.
+19,money transfer from Tanzania to USA,International money transfer services Tanzania to USA,Send money abroad fees comparison,Cryptocurrency trading platforms,High,High,Low,Transactional,Medium,User wants to find out how to to send money to the USA with  the intent of sending money.
+20,how to save money fast,How to save money fast tips,Budgeting and personal finance guide,Online shopping deals,High,High,Low,Informational,Medium,User wants to know how to save money fast with the intent of starting to save
+21,forex trading beginners guide,Forex trading for beginners tutorial,How forex market works explained,Stock trading apps comparison,High,High,Medium,Informational,Medium,user wants to find out how to trade forex so he can start do so as a beginner
+22,is crypto safe to invest in,Is cryptocurrency safe to invest in guide,Crypto risks and benefits explained,Best forex brokers list,High,High,Low,Informational,Medium,User wants to know if crypo is safe to invest in
+23,best side hustles online,Best online side hustles 2025,Freelancing platforms comparison,Online casino games,High,High,Low,Transactional,Medium,user wants to know the best side hustle online with the intent to start hustling so as to earn extra money.
+,,,,,,,,,,
+,🔹 Learning / Informational with action overlap,,,,,,,,,
+24,learn Python step by step,Learn Python step by step tutorial for beginners,Python programming course online free,Java programming basics guide,High,High,Medium,Informational,Medium,"User wants to know how, where to learn python step by step"
+25,best coding bootcamp online,Top online coding bootcamps 2025 comparison,Best programming courses online,Free YouTube coding tutorials,High,High,Medium,Transactional,Medium,User is comparing coding bootcamp services with the intent of joining one
+26,how to become data analyst,How to become a data analyst roadmap,Data analyst skills and tools guide,Data science salary statistics,High,High,Low,Informational,Medium,User wants to learn the process of becoming a data analyst.
+27,AI tools for beginners,AI tools for beginners list,Best AI software for productivity,Advanced machine learning algorithms research,High,High,Low,Transactional,Medium,User wants to find AI tools for bigginers so that he can use them.
+28,what is machine learning used for,Applications of machine learning in real life,Machine learning examples and use cases,Buy AI software online,High,High,Low,Informational,Medium,User wants to know the use of Machine Learning
+29,digital marketing explained simply,Digital marketing basics explained,Online marketing strategies guide,Social media advertising tools,High,High,Low,Informational,Medium,user wants to learn about digital marketing
+30,how to build a website,How to build a website step by step,Website builders comparison (WordPress vs Wix),Web hosting services pricing,High,Medium,Low,Informational,Medium,User wants to know the steps followed to build a website
+,,,,,,,,,,
+,🔹 Daily Life / Local Search Ambiguity,,,,,,,,,
+31,nearest hospital in Dar es Salaam,Nearest hospitals in Dar es Salaam list,Emergency hospitals near me Dar es Salaam,Health insurance plans Tanzania,High,High,Low,Transactional,Medium,User want to know where the nearest hospital is with the intent to go there
+32,ATM near me,ATM locations near me,Bank branches near me,Credit card offers Tanzania,High,High,Low,Transactional,Medium,"User wants to find an ATM nearby, with the likely intent of going there."
+33,best restaurants in Nairobi,Top restaurants in Nairobi list,Best places to eat Nairobi reviews,Kenya travel guide,High,High,Low,Transactional,Medium,User wants to find out where the best restaurant in Nairobi i with the intent of going
+34,cheap food delivery apps,Food delivery apps with cheapest fees,Best food delivery services comparison,Online grocery shopping websites,High,High,Low,Transactional,Medium,User wants to identify a cheap food delivery app so as to order their services
+35,pharmacy open now near me,Pharmacies open now near me,24-hour pharmacies Dar es Salaam,Online medicine delivery services,High,High,Low,Transactional,Medium,User wants to know where the Pharmacy nearest him so that he can visit it.
+36,taxi services in Zanzibar,Taxi services in Zanzibar booking,Zanzibar transport options guide,Car rental services Zanzibar,High,Medium,Medium,Transactional,Medium,User wants to find out about taxi services in Zanzibar in order to get a texi.
+,,,,,,,,,,
+,🔹 Vague / Intent-unclear (important for QA skill),,,,,,,,,
+37,best way to learn fast,Study techniques to learn faster,Memory improvement tips and tricks,Online courses platforms,High,High,Low,Informational,Medium,User wants to know best ways to learn fast so as to use them in learning.
+38,best options for travel,Best travel destinations 2025,Travel planning tips guide,Flight booking websites,High,High,Medium,Informational,Medium,User wants to know best traveling options available
+39,cheapest solution for business setup,Low-cost business startup ideas,Business registration process guide,Enterprise software solutions,High,Medium,Low,Informational,Medium,User wants to find out about the cheapest business setup solution
+40,good places to invest money,Best investment opportunities 2025,Stock market investment options,Real estate properties for sale,High,High,Medium,Informational,Medium,User wants to find out about good places to invest money

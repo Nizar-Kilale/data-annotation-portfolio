@@ -1,0 +1,43 @@
+,,,--- BATCH 1: CLEAR INTENT ---,,,,,,
+,,,,,,,,,
+,query  ,result_1,result_2,result_3,relevance_1,relevance_2,relevance_3,intent,difficulty
+1,best safari in Tanzania,Serengeti safari packages,Tanzania wildlife tours,how to cook rice,High,High,Low,Transactional,Easy
+2,weather in Dar es Salaam,Dar es Salaam weather forecast,Tanzania climate overview,football match schedule,High,Medium,Low,Informational,Easy
+3,what is machine learning,machine learning definition,introduction to AI concepts,buy laptop online,High,Medium,Low,Informational,Easy
+4,cheap hotels in Zanzibar,Zanzibar budget hotels list,luxury resorts Maldives,Zanzibar accommodation deals,High,Low,High,Transactional,Easy
+5,YouTube login,YouTube sign in page,YouTube trending videos,Facebook login page,High,Low,Low,Navigational,Easy
+6,how to lose weight,weight loss tips,healthy diet plan,car repair guide,High,High,Low,Informational,Easy
+7,flight to Dubai from Tanzania,Tanzania to Dubai flight booking,Dubai tourism guide,cooking recipes,High,Medium,Low,Transactional,Easy
+8,Python programming tutorial,Python beginner course,JavaScript tutorial,Python documentation,High,Medium,High,Informational,Easy
+9,nearest hospital in Dar es Salaam,Dar es Salaam hospital locations,health insurance plans,tourist attractions Tanzania,High,Low,Low,Transactional,Easy
+10,buy iPhone 15 price,iPhone 15 online store,Apple product specs,Android phone comparison,High,Medium,Low,Transactional,Easy
+11,best restaurants in Nairob,Nairobi top restaurants list,Kenya food culture,car repair shop,High,Medium,Low,Tranzactional,Easy
+12,Facebook login,Facebook sign in page,Facebook news feed,Twitter homepage,High,Medium,Low,Navigational,Easy
+13,how to invest in stocks,stock market basics,investment strategies,buy shoes online,High,High,Low,Informational,Easy
+14,Tanzania visa requirements,Tanzania visa information,travel tips Tanzania,cooking recipes,High,Medium,Low,Informational,Easy
+15,laptop repair near me,local laptop repair shops,how to fix laptop yourself,buy new laptop,High,Medium,Low,Transactional,Easy
+16,Instagram app download,Instagram download page,Instagram features,Snapchat download,High,Medium,Low,Navigational,Easy
+17,best beaches in Zanzibar,Zanzibar beach guide,Tanzania national parks,Maldives beaches,High,Low,Low,Informational,Easy
+18,exchange rate USD to TZS,USD to TZS current rate,currency conversion tools,stock market news,High,High,Low,Informational,Easy
+19,book safari Tanzania,Tanzania safari booking,wildlife photos,safari clothing tips,High,Low,Low,Transactional,Easy
+20,Google maps,Google Maps website,map directions tool,Bing maps,High,High,Medium,Navigational,Easy
+21,how to cook rice,rice cooking steps,food recipes blog,car maintenance guide,High,Medium,Low,Informational,Easy
+22,book hotel in Nairobi,Nairobi hotel booking,Kenya travel guide,airline tickets,High,Medium,Medium,Transactional,Easy
+23,Twitter login,Twitter sign in page,Twitter trends,Instagram homepage,High,Medium,Low,Navigational,Easy
+24,best laptops 2025,top laptops list,laptop reviews,phone comparison,High,High,Low,Informational,Easy
+25,currency exchange near me,nearby exchange offices,forex rates,online shopping,High,Medium,Low,Transactional,Easy
+26,learn python online,Python courses,programming tutorials,cooking classes,High,High,Low,Informational,Easy
+27,safari cost Tanzania,Tanzania safari pricing,budget travel tips,wildlife photos,High,Medium,Low,Transactional,Easy
+28,Google translate,Google Translate website,translation tools,dictionary app,High,High,Medium,Transactional,Easy
+29,best time to visit Zanzibar,Zanzibar travel seasons,weather patterns,hotel booking sites,High,High,Low,Informational,Easy
+30,buy shoes online,online shoe store,fashion websites,shoe cleaning tips,High,High,Low,Transactional,Easy
+31,nearest ATM,ATM locator,bank branches,credit card offers,High,High,Low,Transactional,Easy
+32,email login,email sign in page,email inbox tips,social media apps,High,Medium,Low,Navigational,Easy
+33,how to start a business,business startup guide,entrepreneurship tips,job listings,High,High,Low,Informational,Easy
+34,download WhatsApp,WhatsApp download page,WhatsApp features,Telegram download,High,Medium,Low,Navigational,Easy
+35,best safari parks Tanzania,Tanzania national parks list,Serengeti guide,Kenya safari parks,High,Medim,Medium,Informational,Easy
+36,book flight to Nairobi,Nairobi flight booking,airline ticket deals,travel blog Kenya,High,High,Medium,Transactional,Easy
+37,what is artificial intelligence,AI definition,machine learning basics,buy AI software,High,High,Low,Informational,Easy
+38,nearest police station,nearby police stations,emergency contact numbers,news articles,High,High,Low,Transactional,Easy
+39,Spotify login,Spotify sign in page,Spotify playlists,Apple Music homepage,High,Medium,Low,Navigational,Easy
+40,best universities in Africa,top African universities ranking,university admission guide,job opportunities abroad,High,Medium,Low,Informational,Easy

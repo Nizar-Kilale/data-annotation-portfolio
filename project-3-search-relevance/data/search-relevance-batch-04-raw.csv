@@ -1,0 +1,43 @@
+,,,"--- BATCH 4: NOISY, AMBIGUOUS & REAL-WORLD QUERIES ---",,,,,,,
+,,,,,,,,,,
+,query  ,result_1,result_2,result_3,relevance_1,relevance_2,relevance_3,intent,difficulty,reasoning (raw only)
+1,cheap safari,tanzania budget safari packages,safari cost africa guide,luxury safari lodges africa,High,Medium,Low,Informational,Noisy,User wants information about cheap safaris
+2,best phone,good smartphones 2025,phone accessories shop,mobile repair near me,High,Low,Low,Informational,Noisy,User wants information about the best phone
+3,learn coding,free coding tutorials for beginners,best programming courses online,gaming laptop deals,High,High,Low,Informational,Noisy,User wants information about learning coding. 
+4,travel to africa requirements,africa travel visa requirements,covid travel restrictions africa,best hotels in africa,High,High,Low,Informational,Noisy,"User is looking for requirements to travel to Africa, likely the next action is traveling to Africa"
+5,make money online,freelancing platforms list,ways to earn money online 2025,online casino sites,High,High,Low,Informational,Noisy,"User is looking for ways to make money one line, the next likely move is trying one of the ways."
+6,buy laptop online,laptops for sale online,best laptops for students,laptop repair services,High,High,Low,Transctional,Noisy,User is looking for ways to buy  a laptop online
+7,restaurant near airport,restaurants near airport location map,food delivery apps near airport,airport parking services,High,Medium,Low,Transactional,Noisy,User is looking for information about the location of restaurants near the airport
+8,how to invest,investment options for beginners,stock market basics explained,best crypto exchanges,High,High,Medium,Informational,Noisy,User is looking for information on the step by step process of investing
+9,cheap flights,best flight deals 2025,airline booking websites,travel insurance plans,High,Medium,Low,Transactional,Noisy,"user id looking for cheap flights deals, the most likely reason is so that he/she can buy one."
+10,gym near me,gyms near me open now,home workout plans,fitness equipment online,High,Low,Low,Transactional,Noisy,User is looking for information on location of gyms near hm/her with the intent of visiting one.
+11,start business,small business ideas guide,business registration process,business loan providers,High,High,Medium,Informational,Noisy,User wants infpormation on how to start a small business
+12,best university,top universities worldwide,university ranking 2025,student accommodation options,High,High,Low,Informational,Noisy,User wants information on the best universities
+13,weather today,current weather forecast today,climate change report,global weather patterns,High,Low,Low,Informational,Noisy,User wants information on the weather today.
+14,hotel booking,best hotel booking sites,cheap hotels deals,travel blogs europe,High,High,Low,Transactional,Noisy,User wants infpormation on hotel booking with the intent of booking a hotel
+15,car rental,rent a car services near me,car hire prices comparison,car repair garages,High,High,Low,Transactional,Noisy,User wants information about car renting
+16,best insurance,top insurance companies,health insurance plans guide,car insurance quotes,High,High,Medium,Informational,Noisy,User wants information comparing insuarances.
+17,open bank account,how to open bank account online,best banks comparison,money transfer services,High,High,Low,Informational,Noisy,User wants information related to opening a bank account
+18,learn English,english learning apps,best english courses online,travel english phrases,High,High,Medium,Informational,Noisy,User wants information on learning english
+19,buy phone,best smartphones to buy 2025,phone deals online,mobile accessories shop,High,High,Low,Transactional,Noisy,User wants information on buying phone so that he/she can buy one.
+20,doctor near me,doctors near me available now,online medical consultation,health tips blog,High,Medium,Low,Transactional,Noisy,User wants to know the location of doctors near him/her so that he can visit one.
+21,cheap hotels,budget hotels deals,hotel booking websites,luxury resorts packages,High,High,Low,Transactional,Noisy,User wants information about cheap hotels
+22,study abroad,study abroad programs guide,best countries to study,university scholarships,High,High,Medium,Informational,Noisy,User wants information related to studying abroad.
+23,online jobs,work from home jobs list,freelancing platforms,online gambling sites,High,High,Low,Informational,Noisy,User wants information  about online jobs.
+24,best investment,investment options 2025,stock vs real estate comparison,save money tips,High,High,Low,Informational,Noisy,User wants information with tips about investment.
+25,taxi near me,taxi booking apps near me,public transport guide,car sales websites,High,Low,Low,Transactional,Noisy,User wants information on location of taxis ner him or her.
+26,how to lose weight,weight loss tips diet plan,exercise routines for weight loss,gym membership offers,High,High,Low,Informational,Noisy,User wants information on how to lose weight.
+27,buy car,cars for sale online,best car deals 2025,car insurance plans,High,High,Medium,Transactional,Noisy,User is inquiring about buying a car with the next most likely step being buying one.
+28,best laptop,laptops for work and study,top laptop brands comparison,laptop accessories shop,Medium,High,Low,Informational,Noisy,user wants information on the best laptop
+29,travel insurance,travel insurance plans comparison,best insurance companies,flight booking websites,High,High,Low,Informational,Noisy,User wants information related to flight insurance.
+30,food near me,best restaurants near me,food delivery apps,cooking recipes online,High,High,Low,Transactional,Noisy,User wants information on the availability of food near him/her
+31,start freelancing,freelancing guide for beginners,best freelance websites,job listings online,High,High,Medium,Transactional,Noisy,User is looking for ways to start freelancing.
+32,best courses,top online courses 2025,free courses online,course certificates providers,High,Medium,Medium,Informational,Noisy,User wants information related to best courses
+33,money transfer,send money abroad services,international transfer fees comparison,cryptocurrency trading apps,High,High,Low,Informational,Noisy,User wants information related to sending money.
+34,rent house,houses for rent near me,property listings real estate,home loan options,High,High,Medium,Transactional,Noisy,User wants informational about renting a house
+35,best country to visit,top travel destinations 2025,visa requirements by country,flight ticket deals,High,Medium,Medium,Informational,Noisy,User wants information comparing best countries he/she can visit.
+36,internet providers,best internet service providers,broadband plans comparison,streaming services,High,High,Low,Informational,Noisy,User wants information about internet providers
+37,cheap insurance,car insurance cheap plans,health insurance comparison guide,insurance claim process,High,High,Low,Informational,Noisy,User wants information related to cheap insurance
+38,learn business,business basics for beginners,how to start a company guide,marketing tools software,High,High,Medium,Informational,Noisy,User wants information related to learning about business.
+39,best camera,top cameras for photography,camera comparison reviews,camera accessories shop,High,High,Low,Informational,Noisy,User wants information about the best camera
+40,job search,job search websites,best job portals online,resume writing tips,High,High,Medium,Informational,Noisy,User wants information related to job search.

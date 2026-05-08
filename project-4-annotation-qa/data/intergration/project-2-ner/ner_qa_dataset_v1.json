@@ -2,7 +2,7 @@
   {
     "id": "1",
     "text": "Elon Musk visited Tanzania last year.",
-    "task": "Named Entity Recognition",
+    "task": "NER",
     "expected_entities": [
       {"text": "Elon Musk", "type": "PERSON"},
       {"text": "Tanzania", "type": "LOCATION"}
@@ -177,98 +177,6 @@
     "expected_entities": [
       {"text": "African Union", "type": "ORGANIZATION"},
       {"text": "Addis Ababa", "type": "LOCATION"}
-    ]
-  },
-  {
-    "id": "21",
-    "text": "Elon Musk and Bill Gates attended a summit in Switzerland.",
-    "task": "NER",
-    "expected_entities": [
-      {"text": "Elon Musk", "type": "PERSON"},
-      {"text": "Bill Gates", "type": "PERSON"},
-      {"text": "Switzerland", "type": "LOCATION"}
-    ]
-  },
-  {
-    "id": "22",
-    "text": "Google and Microsoft are competing in Europe.",
-    "task": "NER",
-    "expected_entities": [
-      {"text": "Google", "type": "ORGANIZATION"},
-      {"text": "Microsoft", "type": "ORGANIZATION"},
-      {"text": "Europe", "type": "LOCATION"}
-    ]
-  },
-  {
-    "id": "23",
-    "text": "The World Bank funded a project in Tanzania.",
-    "task": "NER",
-    "expected_entities": [
-      {"text": "World Bank", "type": "ORGANIZATION"},
-      {"text": "Tanzania", "type": "LOCATION"}
-    ]
-  },
-  {
-    "id": "24",
-    "text": "IBM opened a research center in Brazil.",
-    "task": "NER",
-    "expected_entities": [
-      {"text": "IBM", "type": "ORGANIZATION"},
-      {"text": "Brazil", "type": "LOCATION"}
-    ]
-  },
-  {
-    "id": "25",
-    "text": "Angela Merkel met with leaders in Berlin.",
-    "task": "NER",
-    "expected_entities": [
-      {"text": "Angela Merkel", "type": "PERSON"},
-      {"text": "Berlin", "type": "LOCATION"}
-    ]
-  },
-  {
-    "id": "26",
-    "text": "The European Union passed new regulations in Brussels.",
-    "task": "NER",
-    "expected_entities": [
-      {"text": "European Union", "type": "ORGANIZATION"},
-      {"text": "Brussels", "type": "LOCATION"}
-    ]
-  },
-  {
-    "id": "27",
-    "text": "Samsung launched a phone in South Korea.",
-    "task": "NER",
-    "expected_entities": [
-      {"text": "Samsung", "type": "ORGANIZATION"},
-      {"text": "South Korea", "type": "LOCATION"}
-    ]
-  },
-  {
-    "id": "28",
-    "text": "The Red Cross provided aid in Sudan.",
-    "task": "NER",
-    "expected_entities": [
-      {"text": "Red Cross", "type": "ORGANIZATION"},
-      {"text": "Sudan", "type": "LOCATION"}
-    ]
-  },
-  {
-    "id": "29",
-    "text": "Twitter announced updates from San Francisco.",
-    "task": "NER",
-    "expected_entities": [
-      {"text": "Twitter", "type": "ORGANIZATION"},
-      {"text": "San Francisco", "type": "LOCATION"}
-    ]
-  },
-  {
-    "id": "30",
-    "text": "Alibaba invested in a startup in Singapore.",
-    "task": "NER",
-    "expected_entities": [
-      {"text": "Alibaba", "type": "ORGANIZATION"},
-      {"text": "Singapore", "type": "LOCATION"}
     ]
   }
 ]

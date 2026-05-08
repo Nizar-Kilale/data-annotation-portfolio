@@ -20,7 +20,7 @@ id,text,sentiment,batch
 19,It performs reliably every time.,Positive,B1
 20,The design feels very low quality.,Negative,B1
 
-21,I absolutely love this product, it's amazing.,Positive,B2
+21,I absolutely love this product. it's amazing.,Positive,B2
 22,It's okay nothing special but works fine.,Positive,B2
 23,I really hate how this works.,Negative,B2
 24,I'm extremely satisfied with my purchase.,Positive,B2

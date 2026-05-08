@@ -1,0 +1,6 @@
+id,text,annotation,error_type,correct_annotation
+1,"Barack Obama visited Kenya in 2015","PERSON: Obama; LOCATION: Kenya","Boundary Error","PERSON: Barack Obama; LOCATION: Kenya"
+2,"Apple released a new iPhone model","ORGANIZATION: Apple","Missing Annotation Error","ORGANIZATION: Apple; PRODUCT: iPhone"
+3,"I absolutely love this product","sentiment: Neutral","Label Error","sentiment: Positive"
+4,"New York is a great city","LOCATION: York","Boundary Error","LOCATION: New York"
+5,"Tesla announced earnings yesterday","ORGANIZATION: Tesla; EVENT: earnings report","Consistency Error","ORGANIZATION: Tesla; EVENT: Earnings Announcement"

@@ -1,0 +1,63 @@
+id,text,sentiment,batch
+1,The product arrived quickly and works perfectly.,Positive,B1
+2,I am very happy with this purchase.,Positive,B1
+3,The item feels cheap and poorly made.,Negative,B1
+4,It works exactly as described.,Positive,B1
+5,I regret buying this product.,Negative,B1
+6,The quality exceeded my expectations.,Positive,B1
+7,It stopped working after one week.,Negative,B1
+8,I am satisfied with the performance.,Positive,B1
+9,This is a complete waste of money.,Negative,B1
+10,It does the job well enough.,Positive,B1
+11,I would definitely recommend this product.,Positive,B1
+12,It is not worth the price at all.,Negative,B1
+13,The packaging was neat and secure.,Positive,B1
+14,I am disappointed with the quality.,Negative,B1
+15,The product works better than expected.,Positive,B1
+16,It arrived damaged and unusable.,Negative,B1
+17,Very useful and easy to use.,Positive,B1
+18,I will not buy this again.,Negative,B1
+19,It performs reliably every time.,Positive,B1
+20,The design feels very low quality.,Negative,B1
+
+21,I absolutely love this product, it's amazing.,Positive,B2
+22,It's okay nothing special but works fine.,Positive,B2
+23,I really hate how this works.,Negative,B2
+24,I'm extremely satisfied with my purchase.,Positive,B2
+25,It's not the best but it's acceptable.,Positive,B2
+26,This is by far the worst product I've used.,Negative,B2
+27,I'm very pleased with the results.,Positive,B2
+28,It's slightly disappointing.,Negative,B2
+29,I couldn't be happier with this product.,Positive,B2
+30,It's just average nothing impressive.,Positive,B2
+31,This product is terrible and frustrating.,Negative,B2
+32,I'm quite happy with how it performs.,Positive,B2
+33,It's not great but not terrible either.,Positive,B2
+34,I am deeply disappointed in this purchase.,Negative,B2
+35,This works perfectly and I love it.,Positive,B2
+36,It's somewhat useful in daily use.,Positive,B2
+37,I regret this purchase so much.,Negative,B2
+38,I'm fairly satisfied with it.,Positive,B2
+39,This product exceeded my expectations greatly.,Positive,B2
+40,It's barely usable.,Negative,B2
+
+41,The product is good but too expensive for what it offers.,Negative,B3
+42,Great quality and definitely worth the price.,Positive,B3
+43,It's cheap but the quality is terrible.,Negative,B3
+44,I feel like I got great value for my money.,Positive,B3
+45,The product works fine but it's overpriced.,Negative,B3
+46,It's affordable and does exactly what I need.,Positive,B3
+47,Not worth the price at all.,Negative,B3
+48,The quality justifies the high cost.,Positive,B3
+49,It's too costly for such poor performance.,Negative,B3
+50,Good value for the price.,Positive,B3
+51,It's inexpensive but you get what you pay for.,Positive,B3
+52,I expected better quality for this price.,Negative,B3
+53,Very high quality and reasonably priced.,Positive,B3
+54,It's not cheap but it's worth every penny.,Positive,B3
+55,I feel like I wasted money on this.,Negative,B3
+56,Decent product for the cost.,Positive,B3
+57,The price is fair for what you get.,Positive,B3
+58,Too expensive for such low quality.,Negative,B3
+59,I'm happy with the value I received.,Positive,B3
+60,It's cheap but it doesn't last long.,Negative,B3

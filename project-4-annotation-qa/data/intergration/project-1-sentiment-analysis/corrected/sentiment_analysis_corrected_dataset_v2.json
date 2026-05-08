@@ -1,0 +1,484 @@
+[
+  {
+    "id": 1,
+    "text": "The product arrived quickly and works perfectly.",
+    "expected_sentiment": "Positive",
+    "batch": "B1",
+    "model_prediction": "Positive",
+    "is_correct": true
+  },
+  {
+    "id": 2,
+    "text": "I am very happy with this purchase.",
+    "expected_sentiment": "Positive",
+    "batch": "B1",
+    "model_prediction": "Positive",
+    "is_correct": true
+  },
+  {
+    "id": 3,
+    "text": "The item feels cheap and poorly made.",
+    "expected_sentiment": "Negative",
+    "batch": "B1",
+    "model_prediction": "Negative",
+    "is_correct": true
+  },
+  {
+    "id": 4,
+    "text": "It works exactly as described.",
+    "expected_sentiment": "Positive",
+    "batch": "B1",
+    "model_prediction": "Positive",
+    "is_correct": true
+  },
+  {
+    "id": 5,
+    "text": "I regret buying this product.",
+    "expected_sentiment": "Negative",
+    "batch": "B1",
+    "model_prediction": "Negative",
+    "is_correct": true
+  },
+  {
+    "id": 6,
+    "text": "The quality exceeded my expectations.",
+    "expected_sentiment": "Positive",
+    "batch": "B1",
+    "model_prediction": "Positive",
+    "is_correct": true
+  },
+  {
+    "id": 7,
+    "text": "It stopped working after one week.",
+    "expected_sentiment": "Negative",
+    "batch": "B1",
+    "model_prediction": "Negative",
+    "is_correct": true
+  },
+  {
+    "id": 8,
+    "text": "I am satisfied with the performance.",
+    "expected_sentiment": "Positive",
+    "batch": "B1",
+    "model_prediction": "Positive",
+    "is_correct": true
+  },
+  {
+    "id": 9,
+    "text": "This is a complete waste of money.",
+    "expected_sentiment": "Negative",
+    "batch": "B1",
+    "model_prediction": "Negative",
+    "is_correct": true
+  },
+  {
+    "id": 10,
+    "text": "It does the job well enough.",
+    "expected_sentiment": "Positive",
+    "batch": "B1",
+    "model_prediction": "Positive",
+    "is_correct": true
+  },
+  {
+    "id": 11,
+    "text": "I would definitely recommend this product.",
+    "expected_sentiment": "Positive",
+    "batch": "B1",
+    "model_prediction": "Positive",
+    "is_correct": true
+  },
+  {
+    "id": 12,
+    "text": "It is not worth the price at all.",
+    "expected_sentiment": "Negative",
+    "batch": "B1",
+    "model_prediction": "Negative",
+    "is_correct": true
+  },
+  {
+    "id": 13,
+    "text": "The packaging was neat and secure.",
+    "expected_sentiment": "Positive",
+    "batch": "B1",
+    "model_prediction": "Positive",
+    "is_correct": true
+  },
+  {
+    "id": 14,
+    "text": "I am disappointed with the quality.",
+    "expected_sentiment": "Negative",
+    "batch": "B1",
+    "model_prediction": "Negative",
+    "is_correct": true
+  },
+  {
+    "id": 15,
+    "text": "The product works better than expected.",
+    "expected_sentiment": "Positive",
+    "batch": "B1",
+    "model_prediction": "Positive",
+    "is_correct": true
+  },
+  {
+    "id": 16,
+    "text": "It arrived damaged and unusable.",
+    "expected_sentiment": "Negative",
+    "batch": "B1",
+    "model_prediction": "Negative",
+    "is_correct": true
+  },
+  {
+    "id": 17,
+    "text": "Very useful and easy to use.",
+    "expected_sentiment": "Positive",
+    "batch": "B1",
+    "model_prediction": "Positive",
+    "is_correct": true
+  },
+  {
+    "id": 18,
+    "text": "I will not buy this again.",
+    "expected_sentiment": "Negative",
+    "batch": "B1",
+    "model_prediction": "Negative",
+    "is_correct": true
+  },
+  {
+    "id": 19,
+    "text": "It performs reliably every time.",
+    "expected_sentiment": "Positive",
+    "batch": "B1",
+    "model_prediction": "Positive",
+    "is_correct": true
+  },
+  {
+    "id": 20,
+    "text": "The design feels very low quality.",
+    "expected_sentiment": "Negative",
+    "batch": "B1",
+    "model_prediction": "Negative",
+    "is_correct": true
+  },
+
+  {
+    "id": 21,
+    "text": "I absolutely love this product. it's amazing.",
+    "expected_sentiment": "Positive",
+    "batch": "B2",
+    "model_prediction": "Positive",
+    "is_correct": true
+  },
+  {
+    "id": 22,
+    "text": "It's okay nothing special but works fine.",
+    "expected_sentiment": "Positive",
+    "batch": "B2",
+    "model_prediction": "Negative",
+    "is_correct": false
+  },
+  {
+    "id": 23,
+    "text": "I really hate how this works.",
+    "expected_sentiment": "Negative",
+    "batch": "B2",
+    "model_prediction": "Negative",
+    "is_correct": true
+  },
+  {
+    "id": 24,
+    "text": "I'm extremely satisfied with my purchase.",
+    "expected_sentiment": "Positive",
+    "batch": "B2",
+    "model_prediction": "Positive",
+    "is_correct": true
+  },
+  {
+    "id": 25,
+    "text": "It's not the best but it's acceptable.",
+    "expected_sentiment": "Positive",
+    "batch": "B2",
+    "model_prediction": "Positive",
+    "is_correct": true
+  },
+  {
+    "id": 26,
+    "text": "This is by far the worst product I've used.",
+    "expected_sentiment": "Negative",
+    "batch": "B2",
+    "model_prediction": "Negative",
+    "is_correct": true
+  },
+  {
+    "id": 27,
+    "text": "I'm very pleased with the results.",
+    "expected_sentiment": "Positive",
+    "batch": "B2",
+    "model_prediction": "Positive",
+    "is_correct": true
+  },
+  {
+    "id": 28,
+    "text": "It's slightly disappointing.",
+    "expected_sentiment": "Negative",
+    "batch": "B2",
+    "model_prediction": "Negative",
+    "is_correct": true
+  },
+  {
+    "id": 29,
+    "text": "I couldn't be happier with this product.",
+    "expected_sentiment": "Positive",
+    "batch": "B2",
+    "model_prediction": "Positive",
+    "is_correct": true
+  },
+  {
+    "id": 30,
+    "text": "It's just average nothing impressive.",
+    "expected_sentiment": "Positive",
+    "batch": "B2",
+    "model_prediction": "Negative",
+    "is_correct": false
+  },
+  {
+    "id": 31,
+    "text": "This product is terrible and frustrating.",
+    "expected_sentiment": "Negative",
+    "batch": "B2",
+    "model_prediction": "Negative",
+    "is_correct": true
+  },
+  {
+    "id": 32,
+    "text": "I'm quite happy with how it performs.",
+    "expected_sentiment": "Positive",
+    "batch": "B2",
+    "model_prediction": "Positive",
+    "is_correct": true
+  },
+  {
+    "id": 33,
+    "text": "It's not great but not terrible either.",
+    "expected_sentiment": "Positive",
+    "batch": "B2",
+    "model_prediction": "Negative",
+    "is_correct": false
+  },
+  {
+    "id": 34,
+    "text": "I am deeply disappointed in this purchase.",
+    "expected_sentiment": "Negative",
+    "batch": "B2",
+    "model_prediction": "Negative",
+    "is_correct": true
+  },
+  {
+    "id": 35,
+    "text": "This works perfectly and I love it.",
+    "expected_sentiment": "Positive",
+    "batch": "B2",
+    "model_prediction": "Positive",
+    "is_correct": true
+  },
+  {
+    "id": 36,
+    "text": "It's somewhat useful in daily use.",
+    "expected_sentiment": "Positive",
+    "batch": "B2",
+    "model_prediction": "Positive",
+    "is_correct": true
+  },
+  {
+    "id": 37,
+    "text": "I regret this purchase so much.",
+    "expected_sentiment": "Negative",
+    "batch": "B2",
+    "model_prediction": "Negative",
+    "is_correct": true
+  },
+  {
+    "id": 38,
+    "text": "I'm fairly satisfied with it.",
+    "expected_sentiment": "Positive",
+    "batch": "B2",
+    "model_prediction": "Positive",
+    "is_correct": true
+  },
+  {
+    "id": 39,
+    "text": "This product exceeded my expectations greatly.",
+    "expected_sentiment": "Positive",
+    "batch": "B2",
+    "model_prediction": "Positive",
+    "is_correct": true
+  },
+  {
+    "id": 40,
+    "text": "It's barely usable.",
+    "expected_sentiment": "Negative",
+    "batch": "B2",
+    "model_prediction": "Negative",
+    "is_correct": true
+  },
+
+  {
+    "id": 41,
+    "text": "The product is good but too expensive for what it offers.",
+    "expected_sentiment": "Negative",
+    "batch": "B3",
+    "model_prediction": "Positive",
+    "is_correct": false
+  },
+  {
+    "id": 42,
+    "text": "Great quality and definitely worth the price.",
+    "expected_sentiment": "Positive",
+    "batch": "B3",
+    "model_prediction": "Positive",
+    "is_correct": true
+  },
+  {
+    "id": 43,
+    "text": "It's cheap but the quality is terrible.",
+    "expected_sentiment": "Negative",
+    "batch": "B3",
+    "model_prediction": "Negative",
+    "is_correct": true
+  },
+  {
+    "id": 44,
+    "text": "I feel like I got great value for my money.",
+    "expected_sentiment": "Positive",
+    "batch": "B3",
+    "model_prediction": "Positive",
+    "is_correct": true
+  },
+  {
+    "id": 45,
+    "text": "The product works fine but it's overpriced.",
+    "expected_sentiment": "Negative",
+    "batch": "B3",
+    "model_prediction": "Negative",
+    "is_correct": true
+  },
+  {
+    "id": 46,
+    "text": "It's affordable and does exactly what I need.",
+    "expected_sentiment": "Positive",
+    "batch": "B3",
+    "model_prediction": "Positive",
+    "is_correct": true
+  },
+  {
+    "id": 47,
+    "text": "Not worth the price at all.",
+    "expected_sentiment": "Negative",
+    "batch": "B3",
+    "model_prediction": "Negative",
+    "is_correct": true
+  },
+  {
+    "id": 48,
+    "text": "The quality justifies the high cost.",
+    "expected_sentiment": "Positive",
+    "batch": "B3",
+    "model_prediction": "Positive",
+    "is_correct": true
+  },
+  {
+    "id": 49,
+    "text": "It's too costly for such poor performance.",
+    "expected_sentiment": "Negative",
+    "batch": "B3",
+    "model_prediction": "Negative",
+    "is_correct": true
+  },
+  {
+    "id": 50,
+    "text": "Good value for the price.",
+    "expected_sentiment": "Positive",
+    "batch": "B3",
+    "model_prediction": "Positive",
+    "is_correct": true
+  },
+  {
+    "id": 51,
+    "text": "It's inexpensive but you get what you pay for.",
+    "expected_sentiment": "Positive",
+    "batch": "B3",
+    "model_prediction": "Negative",
+    "is_correct": false
+  },
+  {
+    "id": 52,
+    "text": "I expected better quality for this price.",
+    "expected_sentiment": "Negative",
+    "batch": "B3",
+    "model_prediction": "Negative",
+    "is_correct": true
+  },
+  {
+    "id": 53,
+    "text": "Very high quality and reasonably priced.",
+    "expected_sentiment": "Positive",
+    "batch": "B3",
+    "model_prediction": "Positive",
+    "is_correct": true
+  },
+  {
+    "id": 54,
+    "text": "It's not cheap but it's worth every penny.",
+    "expected_sentiment": "Positive",
+    "batch": "B3",
+    "model_prediction": "Positive",
+    "is_correct": true
+  },
+  {
+    "id": 55,
+    "text": "I feel like I wasted money on this.",
+    "expected_sentiment": "Negative",
+    "batch": "B3",
+    "model_prediction": "Negative",
+    "is_correct": true
+  },
+  {
+    "id": 56,
+    "text": "Decent product for the cost.",
+    "expected_sentiment": "Positive",
+    "batch": "B3",
+    "model_prediction": "Negative",
+    "is_correct": false
+  },
+  {
+    "id": 57,
+    "text": "The price is fair for what you get.",
+    "expected_sentiment": "Positive",
+    "batch": "B3",
+    "model_prediction": "Positive",
+    "is_correct": true
+  },
+  {
+    "id": 58,
+    "text": "Too expensive for such low quality.",
+    "expected_sentiment": "Negative",
+    "batch": "B3",
+    "model_prediction": "Negative",
+    "is_correct": true
+  },
+  {
+    "id": 59,
+    "text": "I'm happy with the value I received.",
+    "expected_sentiment": "Positive",
+    "batch": "B3",
+    "model_prediction": "Positive",
+    "is_correct": true
+  },
+  {
+    "id": 60,
+    "text": "It's cheap but it doesn't last long.",
+    "expected_sentiment": "Negative",
+    "batch": "B3",
+    "model_prediction": "Negative",
+    "is_correct": true
+  }
+]

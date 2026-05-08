@@ -1,0 +1,274 @@
+[
+  {
+    "id": "1",
+    "text": "Elon Musk visited Tanzania last year.",
+    "task": "Named Entity Recognition",
+    "expected_entities": [
+      {"text": "Elon Musk", "type": "PERSON"},
+      {"text": "Tanzania", "type": "LOCATION"}
+    ]
+  },
+  {
+    "id": "2",
+    "text": "Barack Obama gave a speech in Kenya.",
+    "task": "NER",
+    "expected_entities": [
+      {"text": "Barack Obama", "type": "PERSON"},
+      {"text": "Kenya", "type": "LOCATION"}
+    ]
+  },
+  {
+    "id": "3",
+    "text": "Google opened a new office in Lagos.",
+    "task": "NER",
+    "expected_entities": [
+      {"text": "Google", "type": "ORGANIZATION"},
+      {"text": "Lagos", "type": "LOCATION"}
+    ]
+  },
+  {
+    "id": "4",
+    "text": "Serena Williams trained in Paris.",
+    "task": "NER",
+    "expected_entities": [
+      {"text": "Serena Williams", "type": "PERSON"},
+      {"text": "Paris", "type": "LOCATION"}
+    ]
+  },
+  {
+    "id": "5",
+    "text": "Microsoft announced a partnership in South Africa.",
+    "task": "NER",
+    "expected_entities": [
+      {"text": "Microsoft", "type": "ORGANIZATION"},
+      {"text": "South Africa", "type": "LOCATION"}
+    ]
+  },
+  {
+    "id": "6",
+    "text": "Lionel Messi traveled to Dubai for an event.",
+    "task": "NER",
+    "expected_entities": [
+      {"text": "Lionel Messi", "type": "PERSON"},
+      {"text": "Dubai", "type": "LOCATION"}
+    ]
+  },
+  {
+    "id": "7",
+    "text": "Amazon expanded its services in Nigeria.",
+    "task": "NER",
+    "expected_entities": [
+      {"text": "Amazon", "type": "ORGANIZATION"},
+      {"text": "Nigeria", "type": "LOCATION"}
+    ]
+  },
+  {
+    "id": "8",
+    "text": "Oprah Winfrey hosted a show in London.",
+    "task": "NER",
+    "expected_entities": [
+      {"text": "Oprah Winfrey", "type": "PERSON"},
+      {"text": "London", "type": "LOCATION"}
+    ]
+  },
+  {
+    "id": "9",
+    "text": "Facebook launched a new feature in India.",
+    "task": "NER",
+    "expected_entities": [
+      {"text": "Facebook", "type": "ORGANIZATION"},
+      {"text": "India", "type": "LOCATION"}
+    ]
+  },
+  {
+    "id": "10",
+    "text": "Bill Gates donated funds to a hospital in Uganda.",
+    "task": "NER",
+    "expected_entities": [
+      {"text": "Bill Gates", "type": "PERSON"},
+      {"text": "Uganda", "type": "LOCATION"}
+    ]
+  },
+  {
+    "id": "11",
+    "text": "Cristiano Ronaldo played a match in Spain.",
+    "task": "NER",
+    "expected_entities": [
+      {"text": "Cristiano Ronaldo", "type": "PERSON"},
+      {"text": "Spain", "type": "LOCATION"}
+    ]
+  },
+  {
+    "id": "12",
+    "text": "Apple released a new product in California.",
+    "task": "NER",
+    "expected_entities": [
+      {"text": "Apple", "type": "ORGANIZATION"},
+      {"text": "California", "type": "LOCATION"}
+    ]
+  },
+  {
+    "id": "13",
+    "text": "Jeff Bezos attended a conference in Germany.",
+    "task": "NER",
+    "expected_entities": [
+      {"text": "Jeff Bezos", "type": "PERSON"},
+      {"text": "Germany", "type": "LOCATION"}
+    ]
+  },
+  {
+    "id": "14",
+    "text": "The United Nations held a meeting in New York.",
+    "task": "NER",
+    "expected_entities": [
+      {"text": "United Nations", "type": "ORGANIZATION"},
+      {"text": "New York", "type": "LOCATION"}
+    ]
+  },
+  {
+    "id": "15",
+    "text": "Tesla built a factory in China.",
+    "task": "NER",
+    "expected_entities": [
+      {"text": "Tesla", "type": "ORGANIZATION"},
+      {"text": "China", "type": "LOCATION"}
+    ]
+  },
+  {
+    "id": "16",
+    "text": "Mark Zuckerberg visited Indonesia.",
+    "task": "NER",
+    "expected_entities": [
+      {"text": "Mark Zuckerberg", "type": "PERSON"},
+      {"text": "Indonesia", "type": "LOCATION"}
+    ]
+  },
+  {
+    "id": "17",
+    "text": "The World Health Organization issued a report in Geneva.",
+    "task": "NER",
+    "expected_entities": [
+      {"text": "World Health Organization", "type": "ORGANIZATION"},
+      {"text": "Geneva", "type": "LOCATION"}
+    ]
+  },
+  {
+    "id": "18",
+    "text": "Jack Ma spoke at an event in Shanghai.",
+    "task": "NER",
+    "expected_entities": [
+      {"text": "Jack Ma", "type": "PERSON"},
+      {"text": "Shanghai", "type": "LOCATION"}
+    ]
+  },
+  {
+    "id": "19",
+    "text": "Netflix filmed a series in Canada.",
+    "task": "NER",
+    "expected_entities": [
+      {"text": "Netflix", "type": "ORGANIZATION"},
+      {"text": "Canada", "type": "LOCATION"}
+    ]
+  },
+  {
+    "id": "20",
+    "text": "The African Union met in Addis Ababa.",
+    "task": "NER",
+    "expected_entities": [
+      {"text": "African Union", "type": "ORGANIZATION"},
+      {"text": "Addis Ababa", "type": "LOCATION"}
+    ]
+  },
+  {
+    "id": "21",
+    "text": "Elon Musk and Bill Gates attended a summit in Switzerland.",
+    "task": "NER",
+    "expected_entities": [
+      {"text": "Elon Musk", "type": "PERSON"},
+      {"text": "Bill Gates", "type": "PERSON"},
+      {"text": "Switzerland", "type": "LOCATION"}
+    ]
+  },
+  {
+    "id": "22",
+    "text": "Google and Microsoft are competing in Europe.",
+    "task": "NER",
+    "expected_entities": [
+      {"text": "Google", "type": "ORGANIZATION"},
+      {"text": "Microsoft", "type": "ORGANIZATION"},
+      {"text": "Europe", "type": "LOCATION"}
+    ]
+  },
+  {
+    "id": "23",
+    "text": "The World Bank funded a project in Tanzania.",
+    "task": "NER",
+    "expected_entities": [
+      {"text": "World Bank", "type": "ORGANIZATION"},
+      {"text": "Tanzania", "type": "LOCATION"}
+    ]
+  },
+  {
+    "id": "24",
+    "text": "IBM opened a research center in Brazil.",
+    "task": "NER",
+    "expected_entities": [
+      {"text": "IBM", "type": "ORGANIZATION"},
+      {"text": "Brazil", "type": "LOCATION"}
+    ]
+  },
+  {
+    "id": "25",
+    "text": "Angela Merkel met with leaders in Berlin.",
+    "task": "NER",
+    "expected_entities": [
+      {"text": "Angela Merkel", "type": "PERSON"},
+      {"text": "Berlin", "type": "LOCATION"}
+    ]
+  },
+  {
+    "id": "26",
+    "text": "The European Union passed new regulations in Brussels.",
+    "task": "NER",
+    "expected_entities": [
+      {"text": "European Union", "type": "ORGANIZATION"},
+      {"text": "Brussels", "type": "LOCATION"}
+    ]
+  },
+  {
+    "id": "27",
+    "text": "Samsung launched a phone in South Korea.",
+    "task": "NER",
+    "expected_entities": [
+      {"text": "Samsung", "type": "ORGANIZATION"},
+      {"text": "South Korea", "type": "LOCATION"}
+    ]
+  },
+  {
+    "id": "28",
+    "text": "The Red Cross provided aid in Sudan.",
+    "task": "NER",
+    "expected_entities": [
+      {"text": "Red Cross", "type": "ORGANIZATION"},
+      {"text": "Sudan", "type": "LOCATION"}
+    ]
+  },
+  {
+    "id": "29",
+    "text": "Twitter announced updates from San Francisco.",
+    "task": "NER",
+    "expected_entities": [
+      {"text": "Twitter", "type": "ORGANIZATION"},
+      {"text": "San Francisco", "type": "LOCATION"}
+    ]
+  },
+  {
+    "id": "30",
+    "text": "Alibaba invested in a startup in Singapore.",
+    "task": "NER",
+    "expected_entities": [
+      {"text": "Alibaba", "type": "ORGANIZATION"},
+      {"text": "Singapore", "type": "LOCATION"}
+    ]
+  }
+]

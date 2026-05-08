@@ -1,0 +1,6 @@
+id,text,final_annotation,error_type,reviewer_notes
+1,"Barack Obama visited Kenya in 2015","PERSON: Barack Obama; LOCATION: Kenya","Boundary Error","Corrected truncated PERSON entity and restored full name consistency based on NER guideline for proper noun spans."
+2,"Apple released a new iPhone model","ORGANIZATION: Apple; PRODUCT: iPhone","Missing Annotation Error","Added missing PRODUCT entity as per guideline requiring identification of named consumer devices."
+3,"I absolutely love this product","sentiment: Positive","Label Error","Corrected sentiment from Neutral to Positive based on explicit positive emotional expression."
+4,"New York is a great city","LOCATION: New York","Boundary Error","Corrected incomplete entity span by restoring full city name."
+5,"Tesla announced earnings yesterday","ORGANIZATION: Tesla; EVENT: Earnings Announcement","Consistency Error","Standardized event labeling format to match dataset convention for corporate financial announcements."

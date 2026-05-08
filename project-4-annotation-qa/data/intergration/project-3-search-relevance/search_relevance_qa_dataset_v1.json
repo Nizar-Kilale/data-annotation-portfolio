@@ -1,0 +1,146 @@
+[
+  {
+    "id": "1",
+    "query": "best safari in Tanzania",
+    "results": [
+      "Serengeti safari packages",
+      "Tanzania wildlife tours",
+      "how to cook rice"
+    ],
+    "relevance": ["High", "High", "Low"],
+    "intent": "Transactional",
+    "difficulty": "Easy"
+  },
+  {
+    "id": "2",
+    "query": "weather in Dar es Salaam",
+    "results": [
+      "Dar es Salaam weather forecast",
+      "Tanzania climate overview",
+      "football match schedule"
+    ],
+    "relevance": ["High", "Medium", "Low"],
+    "intent": "Informational",
+    "difficulty": "Easy"
+  },
+  {
+    "id": "3",
+    "query": "cheap hotels in Zanzibar",
+    "results": [
+      "Zanzibar budget hotels list",
+      "luxury resorts Maldives",
+      "Zanzibar accommodation deals"
+    ],
+    "relevance": ["High", "Low", "High"],
+    "intent": "Transactional",
+    "difficulty": "Easy"
+  },
+  {
+    "id": "4",
+    "query": "Serengeti or Maasai Mara which is better",
+    "results": [
+      "Serengeti vs Maasai Mara safari comparison",
+      "Maasai Mara tour packages Kenya",
+      "Tanzania visa requirements"
+    ],
+    "relevance": ["High", "Medium", "Low"],
+    "intent": "Informational",
+    "difficulty": "Hard"
+  },
+  {
+    "id": "5",
+    "query": "best laptop for programming students",
+    "results": [
+      "Best programming laptops for students guide",
+      "Laptop comparison for coding and software development",
+      "Cheap laptop deals for gaming accessories"
+    ],
+    "relevance": ["High", "High", "Low"],
+    "intent": "Transactional",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "6",
+    "query": "how to invest in stocks",
+    "results": [
+      "How to start investing in stocks beginners guide",
+      "Stock market basics and investment strategies",
+      "Buy luxury watches online"
+    ],
+    "relevance": ["High", "High", "Low"],
+    "intent": "Informational",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "7",
+    "query": "ATM near me",
+    "results": [
+      "ATM locations near me",
+      "Bank branches near me",
+      "Credit card offers Tanzania"
+    ],
+    "relevance": ["High", "High", "Low"],
+    "intent": "Transactional",
+    "difficulty": "Noisy"
+  },
+  {
+    "id": "8",
+    "query": "learn Python step by step",
+    "results": [
+      "Learn Python step by step tutorial for beginners",
+      "Python programming course online free",
+      "Java programming basics guide"
+    ],
+    "relevance": ["High", "High", "Low"],
+    "intent": "Informational",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "9",
+    "query": "Zanzibar vs Maldives holiday",
+    "results": [
+      "Zanzibar vs Maldives comparison guide",
+      "best Zanzibar beaches list",
+      "Maldives luxury resorts booking"
+    ],
+    "relevance": ["High", "Medium", "High"],
+    "intent": "Informational",
+    "difficulty": "Hard"
+  },
+  {
+    "id": "10",
+    "query": "make money online",
+    "results": [
+      "Freelancing platforms list",
+      "Ways to earn money online 2025",
+      "Online casino sites"
+    ],
+    "relevance": ["High", "High", "Low"],
+    "intent": "Informational",
+    "difficulty": "Noisy"
+  },
+  {
+    "id": "11",
+    "query": "best restaurants in Nairobi",
+    "results": [
+      "Top restaurants in Nairobi list",
+      "Best places to eat Nairobi reviews",
+      "Kenya travel guide"
+    ],
+    "relevance": ["High", "High", "Low"],
+    "intent": "Transactional",
+    "difficulty": "Easy"
+  },
+  {
+    "id": "12",
+    "query": "how to start a business",
+    "results": [
+      "Business startup guide",
+      "Entrepreneurship tips",
+      "Job listings"
+    ],
+    "relevance": ["High", "High", "Low"],
+    "intent": "Informational",
+    "difficulty": "Easy"
+  }
+]
